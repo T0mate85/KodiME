@@ -1,0 +1,1880 @@
+﻿#EXTM3U
+
+#EXTINF:0, tvg-id="FOX HD DE" tvg-logo="http://secure.clientportal.link/picons/foxhd.png" tvg-name="FOX HD DE"  group-title="Germany",FOX HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3425.ts
+
+#EXTINF:0, tvg-id="Folx TV DE" tvg-logo="http://secure.clientportal.link/picons/folxtv.png" tvg-name="Folx TV DE"  group-title="Germany",Folx TV DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12319.ts
+
+#EXTINF:0, tvg-id="Fox Series DE" tvg-logo="http://secure.clientportal.link/picons/fox.png" tvg-name="Fox Series DE"  group-title="Germany",Fox Series DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12294.ts
+
+#EXTINF:0, tvg-id="Goldstar TV DE" tvg-logo="http://secure.clientportal.link/picons/goldstartv.png" tvg-name="Goldstar TV DE"  group-title="Germany",Goldstar TV DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12293.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GOTV DE"  group-title="Germany",GOTV DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12318.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="E8 Television DE"  group-title="Germany",E8 Television DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12337.ts
+
+#EXTINF:0, tvg-id="DMAX DE" tvg-logo="http://secure.clientportal.link/picons/dmax.png" tvg-name="DMAX DE"  group-title="Germany",DMAX DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3431.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DKULTUR DE"  group-title="Germany",DKULTUR DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12338.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Genius Plus DE"  group-title="Germany",Genius Plus DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14575.ts
+
+#EXTINF:0, tvg-id="Family TV DE" tvg-logo="http://secure.clientportal.link/picons/familytv.png" tvg-name="Family TV DE"  group-title="Germany",Family TV DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/13108.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://secure.clientportal.link/picons/ewtn.png" tvg-name="EWTN DE"  group-title="Germany",EWTN DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12336.ts
+
+#EXTINF:0, tvg-id="Sky Sport Austria DE" tvg-logo="http://secure.clientportal.link/picons/skysportaustria.png" tvg-name="Sky Sport Austria DE"  group-title="Germany",Sky Sport Austria DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/9551.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://secure.clientportal.link/picons/jukebox.png" tvg-name="Sky 1 HD DE"  group-title="Germany",Sky 1 HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/9557.ts
+
+#EXTINF:0, tvg-id="HSE24 TREND DE" tvg-logo="http://secure.clientportal.link/picons/hse24trend.png" tvg-name="HSE24 TREND DE"  group-title="Germany",HSE24 TREND DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12335.ts
+
+#EXTINF:0, tvg-id="HSE24 DE" tvg-logo="http://secure.clientportal.link/picons/hse24.png" tvg-name="HSE24 DE"  group-title="Germany",HSE24 DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12292.ts
+
+#EXTINF:0, tvg-id="Junior DE" tvg-logo="http://secure.clientportal.link/picons/junior.png" tvg-name="Junior TV DE"  group-title="Germany",Junior TV DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/9550.ts
+
+#EXTINF:0, tvg-id="13th Street DE" tvg-logo="http://secure.clientportal.link/picons/13thstreethd.png" tvg-name="13th Street HD 1080P DE"  group-title="Germany",13th Street HD 1080P DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14060.ts
+
+#EXTINF:0, tvg-id="AandE DE" tvg-logo="http://secure.clientportal.link/picons/aehd.png" tvg-name="A&E HD 1080P DE"  group-title="Germany",A&E HD 1080P DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14059.ts
+
+#EXTINF:0, tvg-id="Animal Planet DE" tvg-logo="http://secure.clientportal.link/picons/animalplanethd.png" tvg-name="Animal Planet HD 1080P DE"  group-title="Germany",Animal Planet HD 1080P DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14058.ts
+
+#EXTINF:0, tvg-id="Viva - Comedy Central DE" tvg-logo="http://secure.clientportal.link/picons/vivacomedycentral.png" tvg-name="Viva / Comedy Central DE"  group-title="Germany",Viva / Comedy Central DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12317.ts
+
+#EXTINF:0, tvg-id="History DE" tvg-logo="http://secure.clientportal.link/picons/history.png" tvg-name="History DE"  group-title="Germany",History DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3424.ts
+
+#EXTINF:0, tvg-id="Heimatkanal DE" tvg-logo="http://secure.clientportal.link/picons/heimatkanal.png" tvg-name="Heimatkanal DE"  group-title="Germany",Heimatkanal DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/9558.ts
+
+#EXTINF:0, tvg-id="FOX HD DE" tvg-logo="http://secure.clientportal.link/picons/foxhd.png" tvg-name="FOX HD 1080P DE"  group-title="Germany",FOX HD 1080P DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14055.ts
+
+#EXTINF:0, tvg-id="HR-Fernsehen DE" tvg-logo="http://secure.clientportal.link/picons/hr.png" tvg-name="hr fernsehen DE"  group-title="Germany",hr fernsehen DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12316.ts
+
+#EXTINF:0, tvg-id="Deluxe Music DE" tvg-logo="http://secure.clientportal.link/picons/deluxemusichd.png" tvg-name="Deluxe Music HD 1080P DE"  group-title="Germany",Deluxe Music HD 1080P DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14057.ts
+
+#EXTINF:0, tvg-id="Disney Channel DE" tvg-logo="http://secure.clientportal.link/picons/disneychannelhd.png" tvg-name="Disney Channel HD 1080P DE"  group-title="Germany",Disney Channel HD 1080P DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14056.ts
+
+#EXTINF:0, tvg-id="Astro TV DE" tvg-logo="http://secure.clientportal.link/picons/astrotv.png" tvg-name="Astro TV DE"  group-title="Germany",Astro TV DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12339.ts
+
+#EXTINF:0, tvg-id="arte DE" tvg-logo="http://secure.clientportal.link/picons/arte.png" tvg-name="Arte HD DE"  group-title="Germany",Arte HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3827.ts
+
+#EXTINF:0, tvg-id="ANIXE DE" tvg-logo="http://secure.clientportal.link/picons/anixe.png" tvg-name="ANIXE DE"  group-title="Germany",ANIXE DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3445.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://secure.clientportal.link/picons/axnaction.png" tvg-name="Gute Laune TV DE"  group-title="Germany",Gute Laune TV DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/13110.ts
+
+#EXTINF:0, tvg-id="AXN HD DE" tvg-logo="http://secure.clientportal.link/picons/axnhd.png" tvg-name="AXN HD DE"  group-title="Germany",AXN HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/9562.ts
+
+#EXTINF:0, tvg-id="Eurosport 2 DE" tvg-logo="http://secure.clientportal.link/picons/eurosport2uk.png" tvg-name="Eurosport 2 DE"  group-title="Germany",Eurosport 2 DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/9553.ts
+
+#EXTINF:0, tvg-id="3sat DE" tvg-logo="http://secure.clientportal.link/picons/3sat.png" tvg-name="3sat DE"  group-title="Germany",3sat DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12341.ts
+
+#EXTINF:0, tvg-id="HSE24 DE" tvg-logo="http://secure.clientportal.link/picons/hse24.png" tvg-name="HSE24 HD 1080P DE"  group-title="Germany",HSE24 HD 1080P DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14574.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://secure.clientportal.link/picons/axnhd.png" tvg-name="HR HD DE"  group-title="Germany",HR HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14313.ts
+
+#EXTINF:0, tvg-id="History DE" tvg-logo="http://secure.clientportal.link/picons/historyhd.png" tvg-name="History HD 1080P DE"  group-title="Germany",History HD 1080P DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14311.ts
+
+#EXTINF:0, tvg-id="13th Street DE" tvg-logo="http://secure.clientportal.link/picons/13thstreet.png" tvg-name="13th Street DE"  group-title="Germany",13th Street DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3428.ts
+
+#EXTINF:0, tvg-id="1-2-3.tv DE" tvg-logo="http://secure.clientportal.link/picons/123tv.png" tvg-name="1-2-3.tv DE"  group-title="Germany",1-2-3.tv DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12342.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="########   Germany   ########"  group-title="Germany",########   Germany   ########
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/13303.ts
+
+#EXTINF:0, tvg-id="Disney Channel DE" tvg-logo="http://secure.clientportal.link/picons/disneychannel.png" tvg-name="Disney Channel DE"  group-title="Germany",Disney Channel DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3622.ts
+
+#EXTINF:0, tvg-id="Discovery Channel DE" tvg-logo="http://secure.clientportal.link/picons/discoverychannelhd.png" tvg-name="Discovery Channel HD DE"  group-title="Germany",Discovery Channel HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3426.ts
+
+#EXTINF:0, tvg-id="Deluxe Music DE" tvg-logo="http://secure.clientportal.link/picons/deluxemusic.png" tvg-name="Deluxe Music DE"  group-title="Germany",Deluxe Music DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/9554.ts
+
+#EXTINF:0, tvg-id="Disney XD DE" tvg-logo="http://secure.clientportal.link/picons/disneyxd.png" tvg-name="Disney XD DE"  group-title="Germany",Disney XD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/9547.ts
+
+#EXTINF:0, tvg-id="Disney Junior DE" tvg-logo="http://secure.clientportal.link/picons/disneyjunior.png" tvg-name="Disney Junior DE"  group-title="Germany",Disney Junior DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/9549.ts
+
+#EXTINF:0, tvg-id="Disney Cinemagic DE" tvg-logo="http://secure.clientportal.link/picons/disneycinemagichd.png" tvg-name="Disney Cinemagic HD DE"  group-title="Germany",Disney Cinemagic HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/9548.ts
+
+#EXTINF:0, tvg-id="Das Erste DE" tvg-logo="http://secure.clientportal.link/picons/daserstehd.png" tvg-name="Das Erste  DE"  group-title="Germany",Das Erste  DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3451.ts
+
+#EXTINF:0, tvg-id="BR Fernsehen Nord DE" tvg-logo="http://secure.clientportal.link/picons/br.png" tvg-name="BR Fernsehen Nord DE"  group-title="Germany",BR Fernsehen Nord DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12322.ts
+
+#EXTINF:0, tvg-id="E! DE" tvg-logo="http://secure.clientportal.link/picons/e.png" tvg-name="E! DE"  group-title="Germany",E! DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3828.ts
+
+#EXTINF:0, tvg-id="AandE DE" tvg-logo="http://secure.clientportal.link/picons/ae.png" tvg-name="A&E DE"  group-title="Germany",A&E DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/13109.ts
+
+#EXTINF:0, tvg-id="CLASSICA DE" tvg-logo="http://secure.clientportal.link/picons/classica.png" tvg-name="CLASSICA DE"  group-title="Germany",CLASSICA DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/9555.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BTV DE"  group-title="Germany",BTV DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12320.ts
+
+#EXTINF:0, tvg-id="BR Fernsehen Süd DE" tvg-logo="http://secure.clientportal.link/picons/br.png" tvg-name="BR Fernsehen Süd DE"  group-title="Germany",BR Fernsehen Süd DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12321.ts
+
+#EXTINF:0, tvg-id="SAT.1 DE" tvg-logo="http://secure.clientportal.link/picons/sat1hd.png" tvg-name="SAT.1 HD 1080P DE"  group-title="Germany",SAT.1 HD 1080P DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14047.ts
+
+#EXTINF:0, tvg-id="RTL DE" tvg-logo="http://secure.clientportal.link/picons/rtl.png" tvg-name="RTL NRW DE"  group-title="Germany",RTL NRW DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12298.ts
+
+#EXTINF:0, tvg-id="Nickelodeon DE" tvg-logo="http://secure.clientportal.link/picons/nickelodeon.png" tvg-name="Nickelodeon 1080P HD DE"  group-title="Germany",Nickelodeon 1080P HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14571.ts
+
+#EXTINF:0, tvg-id="SAT.1 DE" tvg-logo="http://secure.clientportal.link/picons/sat1.png" tvg-name="SAT.1 Bayern DE"  group-title="Germany",SAT.1 Bayern DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12310.ts
+
+#EXTINF:0, tvg-id="RTLplus DE" tvg-logo="http://secure.clientportal.link/picons/rtlplus.png" tvg-name="RTLplus DE"  group-title="Germany",RTLplus DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12297.ts
+
+#EXTINF:0, tvg-id="RTL Passion DE" tvg-logo="http://secure.clientportal.link/picons/rtlpassion.png" tvg-name="RTL Passion DE"  group-title="Germany",RTL Passion DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/9563.ts
+
+#EXTINF:0, tvg-id="Syfy DE" tvg-logo="http://secure.clientportal.link/picons/syfyhd.png" tvg-name="Syfy HD 1080P DE"  group-title="Germany",Syfy HD 1080P DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14043.ts
+
+#EXTINF:0, tvg-id="SIXX DE" tvg-logo="http://secure.clientportal.link/picons/sixxhd.png" tvg-name="SIXX HD 1080P DE"  group-title="Germany",SIXX HD 1080P DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14046.ts
+
+#EXTINF:0, tvg-id="Super RTL DE" tvg-logo="http://secure.clientportal.link/picons/superrtlhd.png" tvg-name="Super RTL HD 1080P DE"  group-title="Germany",Super RTL HD 1080P DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14044.ts
+
+#EXTINF:0, tvg-id="SAT.1 DE" tvg-logo="http://secure.clientportal.link/picons/sat1hd.png" tvg-name="SAT.1 HD DE"  group-title="Germany",SAT.1 HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/1637.ts
+
+#EXTINF:0, tvg-id="N24 DE" tvg-logo="http://secure.clientportal.link/picons/n24.png" tvg-name="N24 1080P HD DE"  group-title="Germany",N24 1080P HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14573.ts
+
+#EXTINF:0, tvg-id="Animal Planet DE" tvg-logo="http://secure.clientportal.link/picons/animalplanethd.png" tvg-name="Animal Planet HD DE"  group-title="Germany",Animal Planet HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/9561.ts
+
+#EXTINF:0, tvg-id="n-tv DE" tvg-logo="http://secure.clientportal.link/picons/ntvhd.png" tvg-name="n-tv HD 1080P DE"  group-title="Germany",n-tv HD 1080P DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14054.ts
+
+#EXTINF:0, tvg-id="SIXX DE" tvg-logo="http://secure.clientportal.link/picons/sixx.png" tvg-name="SIXX Austria DE"  group-title="Germany",SIXX Austria DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12306.ts
+
+#EXTINF:0, tvg-id="Nat Geo Wild DE" tvg-logo="http://secure.clientportal.link/picons/natgeowildhd.png" tvg-name="Nat Geo Wild HD 1080P DE"  group-title="Germany",Nat Geo Wild HD 1080P DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14062.ts
+
+#EXTINF:0, tvg-id="SAT.1 DE" tvg-logo="http://secure.clientportal.link/picons/sat1.png" tvg-name="SAT.1 NRW DE"  group-title="Germany",SAT.1 NRW DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12308.ts
+
+#EXTINF:0, tvg-id="Sat.1 Gold DE" tvg-logo="http://secure.clientportal.link/picons/sat1gold.png" tvg-name="SAT.1 Gold DE"  group-title="Germany",SAT.1 Gold DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12309.ts
+
+#EXTINF:0, tvg-id="ServusTV Deutschland DE" tvg-logo="http://secure.clientportal.link/picons/servustv.png" tvg-name="ServusTV Deutschland DE"  group-title="Germany",ServusTV Deutschland DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12307.ts
+
+#EXTINF:0, tvg-id="National Geographic DE" tvg-logo="http://secure.clientportal.link/picons/nationalgeographichd.png" tvg-name="National Geographic HD 1080P DE"  group-title="Germany",National Geographic HD 1080P DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14053.ts
+
+#EXTINF:0, tvg-id="RTL NITRO DE" tvg-logo="http://secure.clientportal.link/picons/rtlnitro.png" tvg-name="RTL NITRO A DE"  group-title="Germany",RTL NITRO A DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12301.ts
+
+#EXTINF:0, tvg-id="Sky Sport Bundesliga 6 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga6.png" tvg-name="Sky Sport Bundesliga 6 DE"  group-title="Germany",Sky Sport Bundesliga 6 DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14555.ts
+
+#EXTINF:0, tvg-id="Sky Sport Bundesliga 8 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga8.png" tvg-name="Sky Sport Bundesliga 8 DE"  group-title="Germany",Sky Sport Bundesliga 8 DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14556.ts
+
+#EXTINF:0, tvg-id="Sky Sport Bundesliga 4 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga4.png" tvg-name="Sky Sport Bundesliga 4 DE"  group-title="Germany",Sky Sport Bundesliga 4 DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14553.ts
+
+#EXTINF:0, tvg-id="Sky Sport Bundesliga 5 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga5.png" tvg-name="Sky Sport Bundesliga 5 DE"  group-title="Germany",Sky Sport Bundesliga 5 DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14554.ts
+
+#EXTINF:0, tvg-id="Sky Sport Bundesliga 9 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga9.png" tvg-name="Sky Sport Bundesliga 9 DE"  group-title="Germany",Sky Sport Bundesliga 9 DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14557.ts
+
+#EXTINF:0, tvg-id="Sky Sport 2 DE" tvg-logo="http://secure.clientportal.link/picons/skysport2de.png" tvg-name="Sky Sport 2 DE"  group-title="Germany",Sky Sport 2 DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14560.ts
+
+#EXTINF:0, tvg-id="Sky Sport 3 DE" tvg-logo="http://secure.clientportal.link/picons/skysport3de.png" tvg-name="Sky Sport 3 DE"  group-title="Germany",Sky Sport 3 DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14561.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga10.png" tvg-name="Sky Sport Bundesliga 10 DE"  group-title="Germany",Sky Sport Bundesliga 10 DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14558.ts
+
+#EXTINF:0, tvg-id="Sky Sport 1 DE" tvg-logo="http://secure.clientportal.link/picons/skysport1de.png" tvg-name="Sky Sport 1 DE"  group-title="Germany",Sky Sport 1 DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14559.ts
+
+#EXTINF:0, tvg-id="Sky Sport Bundesliga 3 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga3.png" tvg-name="Sky Sport Bundesliga 3 DE"  group-title="Germany",Sky Sport Bundesliga 3 DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14552.ts
+
+#EXTINF:0, tvg-id="Sky Action DE" tvg-logo="http://secure.clientportal.link/picons/skyactionhd.png" tvg-name="Sky Action HD DE"  group-title="Germany",Sky Action HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3432.ts
+
+#EXTINF:0, tvg-id="Sky Sport News DE" tvg-logo="http://secure.clientportal.link/picons/skysportnews.png" tvg-name="Sky Sport News DE"  group-title="Germany",Sky Sport News DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14577.ts
+
+#EXTINF:0, tvg-id="RTL NITRO DE" tvg-logo="http://secure.clientportal.link/picons/rtlnitro.png" tvg-name="RTL NITRO DE"  group-title="Germany",RTL NITRO DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/1639.ts
+
+#EXTINF:0, tvg-id="RTL Living DE" tvg-logo="http://secure.clientportal.link/picons/rtlliving.png" tvg-name="RTL Living DE"  group-title="Germany",RTL Living DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3202.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://secure.clientportal.link/picons/sophiatv.png" tvg-name="Sophia-TV DE"  group-title="Germany",Sophia-TV DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14568.ts
+
+#EXTINF:0, tvg-id="Sky Sport Bundesliga 1 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga1.png" tvg-name="Sky Sport Bundesliga 1 DE"  group-title="Germany",Sky Sport Bundesliga 1 DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14550.ts
+
+#EXTINF:0, tvg-id="Sky Sport Bundesliga 2 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga2.png" tvg-name="Sky Sport Bundesliga 2 DE"  group-title="Germany",Sky Sport Bundesliga 2 DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14551.ts
+
+#EXTINF:0, tvg-id="QVC DE" tvg-logo="http://secure.clientportal.link/picons/qvchd.png" tvg-name="QVC HD 1080P DE"  group-title="Germany",QVC HD 1080P DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14569.ts
+
+#EXTINF:0, tvg-id="ANIXE DE" tvg-logo="http://secure.clientportal.link/picons/anixehd.png" tvg-name="ANIXE HD 1080P DE"  group-title="Germany",ANIXE HD 1080P DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14576.ts
+
+#EXTINF:0, tvg-id="ZDFinfo DE" tvg-logo="http://secure.clientportal.link/picons/zdfinfo.png" tvg-name="zdf info DE"  group-title="Germany",zdf info DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12295.ts
+
+#EXTINF:0, tvg-id="ZDF DE" tvg-logo="http://secure.clientportal.link/picons/zdf.png" tvg-name="ZDF DE"  group-title="Germany",ZDF DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/1629.ts
+
+#EXTINF:0, tvg-id="ZDFneo DE" tvg-logo="http://secure.clientportal.link/picons/zdfneo.png" tvg-name="zdf_neo DE"  group-title="Germany",zdf_neo DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3453.ts
+
+#EXTINF:0, tvg-id="ZDFkultur DE" tvg-logo="http://secure.clientportal.link/picons/zdfkultur.png" tvg-name="SWR DE"  group-title="Germany",SWR DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12296.ts
+
+#EXTINF:0, tvg-id="WDR DE" tvg-logo="http://secure.clientportal.link/picons/wdr.png" tvg-name="WDR HD DE"  group-title="Germany",WDR HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3442.ts
+
+#EXTINF:0, tvg-id="TOGGO plus DE" tvg-logo="http://secure.clientportal.link/picons/toggoplus.png" tvg-name="TOGGO plus DE"  group-title="Germany",TOGGO plus DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12323.ts
+
+#EXTINF:0, tvg-id="TNT Serie DE" tvg-logo="http://secure.clientportal.link/picons/tntserie.png" tvg-name="TNT Serie DE"  group-title="Germany",TNT Serie DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3421.ts
+
+#EXTINF:0, tvg-id="Welt der Wunder DE" tvg-logo="http://secure.clientportal.link/picons/weltderwunder.png" tvg-name="Welt der Wunder DE"  group-title="Germany",Welt der Wunder DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12305.ts
+
+#EXTINF:0, tvg-id="VOX DE" tvg-logo="http://secure.clientportal.link/picons/voxhd.png" tvg-name="VOX HD DE"  group-title="Germany",VOX HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/1630.ts
+
+#EXTINF:0, tvg-id="Zee One DE" tvg-logo="http://secure.clientportal.link/picons/zeeone.png" tvg-name="Zee One DE"  group-title="Germany",Zee One DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/13112.ts
+
+#EXTINF:0, tvg-id="Sky Sport Bundesliga 1 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga1hd.png" tvg-name="Sky Sport Bundesliga 1 HD DE"  group-title="Germany",Sky Sport Bundesliga 1 HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3436.ts
+
+#EXTINF:0, tvg-id="sportdigital DE" tvg-logo="http://secure.clientportal.link/picons/sportdigital.png" tvg-name="sportdigital DE"  group-title="Germany",sportdigital DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3841.ts
+
+#EXTINF:0, tvg-id="Sky Sport 1 DE" tvg-logo="http://secure.clientportal.link/picons/skysport1hd.png" tvg-name="Sky Sport 1 HD DE"  group-title="Germany",Sky Sport 1 HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/1479.ts
+
+#EXTINF:0, tvg-id="Sky Sport 2 DE" tvg-logo="http://secure.clientportal.link/picons/skysport2hd.png" tvg-name="Sky Sport 2 HD DE"  group-title="Germany",Sky Sport 2 HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/1480.ts
+
+#EXTINF:0, tvg-id="Sport1 US DE" tvg-logo="http://secure.clientportal.link/picons/sport1ushd.png" tvg-name="Sport1 US HD DE"  group-title="Germany",Sport1 US HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3450.ts
+
+#EXTINF:0, tvg-id="Motorvision TV DE" tvg-logo="http://secure.clientportal.link/picons/motorvision.png" tvg-name="Motorvision TV DE"  group-title="Germany",Motorvision TV DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/9564.ts
+
+#EXTINF:0, tvg-id="Eurosport 1 DE" tvg-logo="http://secure.clientportal.link/picons/eurosport1hd.png" tvg-name="Eurosport 1 HD DE"  group-title="Germany",Eurosport 1 HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3435.ts
+
+#EXTINF:0, tvg-id="Sport1 DE" tvg-logo="http://secure.clientportal.link/picons/sport1.png" tvg-name="Sport1 DE"  group-title="Germany",Sport1 DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/9552.ts
+
+#EXTINF:0, tvg-id="Sony TV DE" tvg-logo="http://secure.clientportal.link/picons/sonytvhd.png" tvg-name="Sony TV HD DE"  group-title="Germany",Sony TV HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3447.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="JukeBox DE"  group-title="Germany",JukeBox DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15579.ts
+
+#EXTINF:0, tvg-id="Sky Comedy DE" tvg-logo="http://secure.clientportal.link/picons/skycomedy.png" tvg-name="Sky Comedy DE"  group-title="Germany",Sky Comedy DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3430.ts
+
+#EXTINF:0, tvg-id="Sky Cinema Plus24 DE" tvg-logo="http://secure.clientportal.link/picons/skycinemaplus24.png" tvg-name="Sky Cinema +24 DE"  group-title="Germany",Sky Cinema +24 DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/1633.ts
+
+#EXTINF:0, tvg-id="Sky Hits DE" tvg-logo="http://secure.clientportal.link/picons/skyhits.png" tvg-name="Sky Hits DE"  group-title="Germany",Sky Hits DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3203.ts
+
+#EXTINF:0, tvg-id="Sky Krimi DE" tvg-logo="http://secure.clientportal.link/picons/skykrimi.png" tvg-name="Sky Krimi DE"  group-title="Germany",Sky Krimi DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3429.ts
+
+#EXTINF:0, tvg-id="Sky Cinema DE" tvg-logo="http://secure.clientportal.link/picons/skycinema.png" tvg-name="Sky Cinema DE"  group-title="Germany",Sky Cinema DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/1634.ts
+
+#EXTINF:0, tvg-id="Sky Atlantic DE" tvg-logo="http://secure.clientportal.link/picons/skyatlantichd.png" tvg-name="Sky Atlantic HD DE"  group-title="Germany",Sky Atlantic HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/1645.ts
+
+#EXTINF:0, tvg-id="SIXX DE" tvg-logo="http://secure.clientportal.link/picons/sixx.png" tvg-name="SIXX DE"  group-title="Germany",SIXX DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/9560.ts
+
+#EXTINF:0, tvg-id="Sky Emotion DE" tvg-logo="http://secure.clientportal.link/picons/skyemotion.png" tvg-name="Sky Emotion DE"  group-title="Germany",Sky Emotion DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/1631.ts
+
+#EXTINF:0, tvg-id="MGM DE" tvg-logo="http://secure.clientportal.link/picons/mgmchannelhd.png" tvg-name="MGM HD 1080P DE"  group-title="Germany",MGM HD 1080P DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14310.ts
+
+#EXTINF:0, tvg-id="Sky Nostalgie DE" tvg-logo="http://secure.clientportal.link/picons/skynostalgie.png" tvg-name="Sky Nostalgie DE"  group-title="Germany",Sky Nostalgie DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/9556.ts
+
+#EXTINF:0, tvg-id="Tele 5 DE" tvg-logo="http://secure.clientportal.link/picons/tele5.png" tvg-name="Tele 5 DE"  group-title="Germany",Tele 5 DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12325.ts
+
+#EXTINF:0, tvg-id="Syfy DE" tvg-logo="http://secure.clientportal.link/picons/syfy.png" tvg-name="Syfy DE"  group-title="Germany",Syfy DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3204.ts
+
+#EXTINF:0, tvg-id="TNT Film DE" tvg-logo="http://secure.clientportal.link/picons/tntfilm.png" tvg-name="TNT Film DE"  group-title="Germany",TNT Film DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3422.ts
+
+#EXTINF:0, tvg-id="TLC DE" tvg-logo="http://secure.clientportal.link/picons/tlc.png" tvg-name="TLC DE"  group-title="Germany",TLC DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12324.ts
+
+#EXTINF:0, tvg-id="Universal Channel DE" tvg-logo="http://secure.clientportal.link/picons/universalchannelhd.png" tvg-name="Universal Channel HD DE"  group-title="Germany",Universal Channel HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3439.ts
+
+#EXTINF:0, tvg-id="SparhandyTV DE" tvg-logo="http://secure.clientportal.link/picons/sparhandytv.png" tvg-name="Sparhandy TV DE"  group-title="Germany",Sparhandy TV DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12326.ts
+
+#EXTINF:0, tvg-id="sonnenklar.TV DE" tvg-logo="http://secure.clientportal.link/picons/sonnenklartv.png" tvg-name="Sonnenklar.TV DE"  group-title="Germany",Sonnenklar.TV DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12327.ts
+
+#EXTINF:0, tvg-id="Super RTL DE" tvg-logo="http://secure.clientportal.link/picons/superrtl.png" tvg-name="Super RTL DE"  group-title="Germany",Super RTL DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3456.ts
+
+#EXTINF:0, tvg-id="SPIEGEL Geschichte DE" tvg-logo="http://secure.clientportal.link/picons/spiegelgeschichte.png" tvg-name="SPIEGEL Geschichte DE"  group-title="Germany",SPIEGEL Geschichte DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3621.ts
+
+#EXTINF:0, tvg-id="Sky Sport 4 DE" tvg-logo="http://secure.clientportal.link/picons/skysport4de.png" tvg-name="Sky Sport 4 DE"  group-title="Germany",Sky Sport 4 DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14562.ts
+
+#EXTINF:0, tvg-id="QVC Beauty DE" tvg-logo="http://secure.clientportal.link/picons/qvcbeautystyle.png" tvg-name="QVC BEAUTY&STYLE DE"  group-title="Germany",QVC BEAUTY&STYLE DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12329.ts
+
+#EXTINF:0, tvg-id="ProSieben Maxx DE" tvg-logo="http://secure.clientportal.link/picons/prosiebenmaxx.png" tvg-name="ProSieben Maxx DE"  group-title="Germany",ProSieben Maxx DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3444.ts
+
+#EXTINF:0, tvg-id="Regio tv DE" tvg-logo="http://secure.clientportal.link/picons/regiotv.png" tvg-name="Regio TV DE"  group-title="Germany",Regio TV DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12328.ts
+
+#EXTINF:0, tvg-id="QVC DE" tvg-logo="http://secure.clientportal.link/picons/qvc.png" tvg-name="QVC DE"  group-title="Germany",QVC DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12330.ts
+
+#EXTINF:0, tvg-id="ProSieben DE" tvg-logo="http://secure.clientportal.link/picons/prosieben.png" tvg-name="ProSieben DE"  group-title="Germany",ProSieben DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/1642.ts
+
+#EXTINF:0, tvg-id="ORF 2 DE" tvg-logo="http://secure.clientportal.link/picons/orf2.png" tvg-name="ORF 2E DE"  group-title="Germany",ORF 2E DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12304.ts
+
+#EXTINF:0, tvg-id="ORF 2 DE" tvg-logo="http://secure.clientportal.link/picons/orf2.png" tvg-name="ORF 2 DE"  group-title="Germany",ORF 2 DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/1644.ts
+
+#EXTINF:0, tvg-id="PHOENIX DE" tvg-logo="http://secure.clientportal.link/picons/phoenix.png" tvg-name="Phoenix DE"  group-title="Germany",Phoenix DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3454.ts
+
+#EXTINF:0, tvg-id="ORF III DE" tvg-logo="http://secure.clientportal.link/picons/orfiii.png" tvg-name="ORF III DE"  group-title="Germany",ORF III DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12303.ts
+
+#EXTINF:0, tvg-id="RiC DE" tvg-logo="http://secure.clientportal.link/picons/ric.png" tvg-name="RiC DE"  group-title="Germany",RiC DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12311.ts
+
+#EXTINF:0, tvg-id="Sky Cinema DE" tvg-logo="http://secure.clientportal.link/picons/skycinemahd.png" tvg-name="Sky Cinema HD DE"  group-title="Germany",Sky Cinema HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3420.ts
+
+#EXTINF:0, tvg-id="RTL DE" tvg-logo="http://secure.clientportal.link/picons/rtl.png" tvg-name="RTL HB NDS DE"  group-title="Germany",RTL HB NDS DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12299.ts
+
+#EXTINF:0, tvg-id="Sky Select DE" tvg-logo="http://secure.clientportal.link/picons/skyselect.png" tvg-name="Sky Select DE"  group-title="Germany",Sky Select DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12290.ts
+
+#EXTINF:0, tvg-id="Sky Cinema Plus1 DE" tvg-logo="http://secure.clientportal.link/picons/skycinemaplus1hd.png" tvg-name="Sky Cinema +1 DE"  group-title="Germany",Sky Cinema +1 DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3434.ts
+
+#EXTINF:0, tvg-id="RTL DE" tvg-logo="http://secure.clientportal.link/picons/rtl.png" tvg-name="RTL FS DE"  group-title="Germany",RTL FS DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12300.ts
+
+#EXTINF:0, tvg-id="RTL DE" tvg-logo="http://secure.clientportal.link/picons/rtl.png" tvg-name="RTL DE"  group-title="Germany",RTL DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3825.ts
+
+#EXTINF:0, tvg-id="Romance TV DE" tvg-logo="http://secure.clientportal.link/picons/romancetv.png" tvg-name="Romance TV DE"  group-title="Germany",Romance TV DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/13111.ts
+
+#EXTINF:0, tvg-id="RTL Crime DE" tvg-logo="http://secure.clientportal.link/picons/rtlcrime.png" tvg-name="RTL Crime DE"  group-title="Germany",RTL Crime DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/1650.ts
+
+#EXTINF:0, tvg-id="RTL II DE" tvg-logo="http://secure.clientportal.link/picons/rtl2.png" tvg-name="RTL II DE"  group-title="Germany",RTL II DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3826.ts
+
+#EXTINF:0, tvg-id="ORF eins DE" tvg-logo="http://secure.clientportal.link/picons/orfeins.png" tvg-name="ORF eins DE"  group-title="Germany",ORF eins DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12302.ts
+
+#EXTINF:0, tvg-id="Deutsches Musik Fernsehen DE" tvg-logo="http://secure.clientportal.link/picons/deutschesmusikfernsehen.png" tvg-name="Deutsches Musik Fernsehen DE"  group-title="Germany",Deutsches Musik Fernsehen DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12334.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="L-TV/TVM DE"  group-title="Germany",L-TV/TVM DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12314.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MediaShop- Neuheiten DE"  group-title="Germany",MediaShop- Neuheiten DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12333.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="LT1-OOE DE"  group-title="Germany",LT1-OOE DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12313.ts
+
+#EXTINF:0, tvg-id="Kinowelt TV DE" tvg-logo="http://secure.clientportal.link/picons/kinowelttv.png" tvg-name="Kinowelt TV DE"  group-title="Germany",Kinowelt TV DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12291.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://secure.clientportal.link/picons/babytv.png" tvg-name="Boomerang DE"  group-title="Germany",Boomerang DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12315.ts
+
+#EXTINF:0, tvg-id="Pro7 HD DE" tvg-logo="http://secure.clientportal.link/picons/prosiebenhd.png" tvg-name="ProSieben HD 1080P DE"  group-title="Germany",ProSieben HD 1080P DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14052.ts
+
+#EXTINF:0, tvg-id="KiKa DE" tvg-logo="http://secure.clientportal.link/picons/kika.png" tvg-name="KiKa DE"  group-title="Germany",KiKa DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/1648.ts
+
+#EXTINF:0, tvg-id="kabel eins DE" tvg-logo="http://secure.clientportal.link/picons/kabeleinshd.png" tvg-name="kabel eins HD DE"  group-title="Germany",kabel eins HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/1649.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://secure.clientportal.link/picons/mediaspartv.png" tvg-name="MediasparTV Homeshopping DE"  group-title="Germany",MediasparTV Homeshopping DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12332.ts
+
+#EXTINF:0, tvg-id="Nat Geo Wild DE" tvg-logo="http://secure.clientportal.link/picons/natgeowildhd.png" tvg-name="Nat Geo Wild HD DE"  group-title="Germany",Nat Geo Wild HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/1646.ts
+
+#EXTINF:0, tvg-id="N24 DE" tvg-logo="http://secure.clientportal.link/picons/n24.png" tvg-name="N24 DE"  group-title="Germany",N24 DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3448.ts
+
+#EXTINF:0, tvg-id="NDR DE" tvg-logo="http://secure.clientportal.link/picons/ndrfernsehenhd.png" tvg-name="NDR HD DE"  group-title="Germany",NDR HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3443.ts
+
+#EXTINF:0, tvg-id="National Geographic DE" tvg-logo="http://secure.clientportal.link/picons/nationalgeographicchannel.png" tvg-name="National Geographic DE"  group-title="Germany",National Geographic DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3419.ts
+
+#EXTINF:0, tvg-id="n-tv DE" tvg-logo="http://secure.clientportal.link/picons/ntv.png" tvg-name="n-tv DE"  group-title="Germany",n-tv DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3449.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MeinTVShop DE"  group-title="Germany",MeinTVShop DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12331.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Mei Musi TV DE"  group-title="Germany",Mei Musi TV DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12312.ts
+
+#EXTINF:0, tvg-id="Pro7 Maxx HD DE" tvg-logo="http://secure.clientportal.link/picons/prosiebenmaxxhd.png" tvg-name="ProSieben Maxx HD 1080P DE"  group-title="Germany",ProSieben Maxx HD 1080P DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14051.ts
+
+#EXTINF:0, tvg-id="MGM DE" tvg-logo="http://secure.clientportal.link/picons/mgmchannelhd.png" tvg-name="MGM HD DE"  group-title="Germany",MGM HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/3423.ts
+
+#EXTINF:0, tvg-id="Discovery Channel DE" tvg-logo="http://secure.clientportal.link/picons/discoverychannelhd.png" tvg-name="Discovery Channel HD 1080P DE"  group-title="Germany",Discovery Channel HD 1080P DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14063.ts
+
+#EXTINF:0, tvg-id="Sky Cinema DE" tvg-logo="http://secure.clientportal.link/picons/skycinemahd.png" tvg-name="Sky Cinema HD 1080P DE"  group-title="Germany",Sky Cinema HD 1080P DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14061.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://secure.clientportal.link/picons/sky3d.png" tvg-name="Sky 3D 1080P DE"  group-title="Germany",Sky 3D 1080P DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14308.ts
+
+#EXTINF:0, tvg-id="Disney Cinemagic DE" tvg-logo="http://secure.clientportal.link/picons/disneycinemagichd.png" tvg-name="Disney Cinemagic HD 1080P DE"  group-title="Germany",Disney Cinemagic HD 1080P DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14312.ts
+
+#EXTINF:0, tvg-id="SPIEGEL TV Wissen DE" tvg-logo="http://secure.clientportal.link/picons/spiegeltvwissen.png" tvg-name="SPIEGEL TV Wissen HD 1080P DE"  group-title="Germany",SPIEGEL TV Wissen HD 1080P DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14045.ts
+
+#EXTINF:0, tvg-id="RTL DE" tvg-logo="http://secure.clientportal.link/picons/rtlhd.png" tvg-name="RTL HD 1080P DE"  group-title="Germany",RTL HD 1080P DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14049.ts
+
+#EXTINF:0, tvg-id="RTL II DE" tvg-logo="http://secure.clientportal.link/picons/rtl2hd.png" tvg-name="RTL II HD 1080P DE"  group-title="Germany",RTL II HD 1080P DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14050.ts
+
+#EXTINF:0, tvg-id="VOX DE" tvg-logo="http://secure.clientportal.link/picons/voxhd.png" tvg-name="VOX HD 1080P DE"  group-title="Germany",VOX HD 1080P DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14291.ts
+
+#EXTINF:0, tvg-id="RTL NITRO DE" tvg-logo="http://secure.clientportal.link/picons/rtlnitrohd.png" tvg-name="RTL NITRO HD 1080P DE"  group-title="Germany",RTL NITRO HD 1080P DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14048.ts
+
+#EXTINF:0, tvg-id="Sky Action DE" tvg-logo="http://secure.clientportal.link/picons/skyactionhd.png" tvg-name="Sky Action HD 1080P DE"  group-title="Germany",Sky Action HD 1080P DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14307.ts
+
+#EXTINF:0, tvg-id="Sky Sport 7 DE" tvg-logo="http://secure.clientportal.link/picons/skysport7de.png" tvg-name="Sky Sport 7 DE"  group-title="Germany",Sky Sport 7 DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14565.ts
+
+#EXTINF:0, tvg-id="Sky Sport 8 DE" tvg-logo="http://secure.clientportal.link/picons/skysport8de.png" tvg-name="Sky Sport 8 DE"  group-title="Germany",Sky Sport 8 DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14566.ts
+
+#EXTINF:0, tvg-id="Sky Sport 5 DE" tvg-logo="http://secure.clientportal.link/picons/skysport5de.png" tvg-name="Sky Sport 5 DE"  group-title="Germany",Sky Sport 5 DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14563.ts
+
+#EXTINF:0, tvg-id="Sky Sport 6 DE" tvg-logo="http://secure.clientportal.link/picons/skysport6de.png" tvg-name="Sky Sport 6 DE"  group-title="Germany",Sky Sport 6 DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14564.ts
+
+#EXTINF:0, tvg-id="Sky Sport 9 DE" tvg-logo="http://secure.clientportal.link/picons/skysport9de.png" tvg-name="Sky Sport 9 DE"  group-title="Germany",Sky Sport 9 DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14567.ts
+
+#EXTINF:0, tvg-id="Sky Hits DE" tvg-logo="http://secure.clientportal.link/picons/skyhitshd.png" tvg-name="Sky Hits HD 1080P DE"  group-title="Germany",Sky Hits HD 1080P DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14305.ts
+
+#EXTINF:0, tvg-id="Sky Atlantic DE" tvg-logo="http://secure.clientportal.link/picons/skyatlantichd.png" tvg-name="Sky Atlantic HD 1080P DE"  group-title="Germany",Sky Atlantic HD 1080P DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14306.ts
+
+#EXTINF:0, tvg-id="TNT Serie DE" tvg-logo="http://secure.clientportal.link/picons/tntseriehd.png" tvg-name="TNT Serie HD 1080P DE"  group-title="Germany",TNT Serie HD 1080P DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14303.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://secure.clientportal.link/picons/skysportfanzonehd.png" tvg-name="Sky Sport Fanzone HD 1080P DE"  group-title="Germany",Sky Sport Fanzone HD 1080P DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/14304.ts
+
+#EXTINF:0, tvg-id="ORF eins DE" tvg-logo="http://secure.clientportal.link/picons/orfeinshd.png" tvg-name="ORF eins HD DE"  group-title="Germany",ORF eins HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/1643.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://secure.clientportal.link/picons/skyselect.png" tvg-name="Sky Select 8 Live DE"  group-title="Germany",Sky Select 8 Live DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11272.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://secure.clientportal.link/picons/skyselect.png" tvg-name="Sky Select 6 Live DE"  group-title="Germany",Sky Select 6 Live DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11270.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cartoon Network  DE"  group-title="Germany",Cartoon Network  DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15565.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://secure.clientportal.link/picons/skyselect.png" tvg-name="Sky Select 7 Live DE"  group-title="Germany",Sky Select 7 Live DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11271.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://secure.clientportal.link/picons/skyselect.png" tvg-name="Sky Select 5 Live DE"  group-title="Germany",Sky Select 5 Live DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11269.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://secure.clientportal.link/picons/skyselect.png" tvg-name="Sky Select 2 Live DE"  group-title="Germany",Sky Select 2 Live DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11266.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://secure.clientportal.link/picons/skyselect.png" tvg-name="Sky Select 1 Live DE"  group-title="Germany",Sky Select 1 Live DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11265.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://secure.clientportal.link/picons/skyselect.png" tvg-name="Sky Select 4 Live DE"  group-title="Germany",Sky Select 4 Live DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11268.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://secure.clientportal.link/picons/skyselect.png" tvg-name="Sky Select 3 Live DE"  group-title="Germany",Sky Select 3 Live DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11267.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Disney Junior HD DE"  group-title="Germany",Disney Junior HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15566.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Cinema Family HD DE"  group-title="Germany",Sky Cinema Family HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15576.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Cinema +24 HD DE"  group-title="Germany",Sky Cinema +24 HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15575.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Sport Austria HD DE"  group-title="Germany",Sky Sport Austria HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15578.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TNT Comedy HD DE"  group-title="Germany",TNT Comedy HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15577.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Cinema +1 HD DE"  group-title="Germany",Sky Cinema +1 HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15574.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Eurosport 2 HD DE"  group-title="Germany",Eurosport 2 HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15568.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="E! Entertainm HD DE"  group-title="Germany",E! Entertainm HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15567.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Arts HD DE"  group-title="Germany",Sky Arts HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15573.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL Crime HD DE"  group-title="Germany",RTL Crime HD DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15570.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Eleven Extra HD PL"  group-title="Poland",Eleven Extra HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15097.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Eurosport 1 HD PL"  group-title="Poland",Eurosport 1 HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15096.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FilmBox Extra HD PL"  group-title="Poland",FilmBox Extra HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15094.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL PLUS FILM HD PL"  group-title="Poland",CANAL PLUS FILM HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15215.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kino Polska Muzyka PL"  group-title="Poland",Kino Polska Muzyka PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15090.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kino Polska PL"  group-title="Poland",Kino Polska PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11192.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL PLUS FAMILY HD PL"  group-title="Poland",CANAL PLUS FAMILY HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15216.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fightbox HD PL"  group-title="Poland",Fightbox HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15095.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL PLUS SERIALE HD PL"  group-title="Poland",CANAL PLUS SERIALE HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15214.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS Europa HD PL"  group-title="Poland",CBS Europa HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15202.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cartoon Network HD PL"  group-title="Poland",Cartoon Network HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15203.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Polsat Food HD PL"  group-title="Poland",Polsat Food HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15189.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Planete Plus HD PL"  group-title="Poland",Planete Plus HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15208.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NTL PL"  group-title="Poland",NTL PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15190.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cinemax 2 HD PL"  group-title="Poland",Cinemax 2 HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15099.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Discovery Historia PL"  group-title="Poland",Discovery Historia PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15098.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ADVENTURE HD PL"  group-title="Poland",ADVENTURE HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15205.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="13 Ulica HD PL"  group-title="Poland",13 Ulica HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15100.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVN Style PL"  group-title="Poland",TVN Style PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11173.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVN Turbo PL"  group-title="Poland",TVN Turbo PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11172.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVN 24 Biznes i Swiat PL"  group-title="Poland",TVN 24 Biznes i Swiat PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11175.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVN Meteo Active PL"  group-title="Poland",TVN Meteo Active PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11174.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVP HD PL"  group-title="Poland",TVP HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12809.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVP Seriale PL"  group-title="Poland",TVP Seriale PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11514.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Polsat Film HD PL"  group-title="Poland",Polsat Film HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15086.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVP 1 HD PL"  group-title="Poland",TVP 1 HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12810.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVP 2 HD PL"  group-title="Poland",TVP 2 HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12811.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVN 24+ PL"  group-title="Poland",TVN 24+ PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11170.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL 1 HD PL"  group-title="Poland",CANAL 1 HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15204.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AMC PL"  group-title="Poland",AMC PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15218.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MiniMini Plus HD PL"  group-title="Poland",MiniMini Plus HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15088.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL PLUS DISCOVERY HD PL"  group-title="Poland",CANAL PLUS DISCOVERY HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15217.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ale Kino HD PL"  group-title="Poland",Ale Kino HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15219.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal+ HD PL"  group-title="Poland",Canal+ HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/13530.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal+ Sport 1 HD PL"  group-title="Poland",Canal+ Sport 1 HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/13535.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kuchnia HD PL"  group-title="Poland",Kuchnia HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/13524.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kuchnia Plus HD PL"  group-title="Poland",Kuchnia Plus HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15210.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Discovery HD PL"  group-title="Poland",Discovery HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15213.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Hip Hop TV PL"  group-title="Poland",Hip Hop TV PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12818.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="########   Poland   ########"  group-title="Poland",########   Poland   ########
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15071.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVN Fabula PL"  group-title="Poland",TVN Fabula PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15178.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVN 7 HD PL"  group-title="Poland",TVN 7 HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15179.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVN 24 HD PL"  group-title="Poland",TVN 24 HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15180.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Travel HD PL"  group-title="Poland",Travel HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15182.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="History HD PL"  group-title="Poland",History HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15091.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TTV HD PL"  group-title="Poland",TTV HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15181.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="nSport Plus HD PL"  group-title="Poland",nSport Plus HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15209.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVN Style HD PL"  group-title="Poland",TVN Style HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15176.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="H2 HD PL"  group-title="Poland",H2 HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15093.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VOX MUSIC  PL"  group-title="Poland",VOX MUSIC  PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15174.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVN Turbo HD PL"  group-title="Poland",TVN Turbo HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15175.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO 1 HD PL"  group-title="Poland",HBO 1 HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/13526.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVN HD PL"  group-title="Poland",TVN HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15177.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO HD PL"  group-title="Poland",HBO HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12812.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO 2 HD PL"  group-title="Poland",HBO 2 HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/13527.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO 3 HD PL"  group-title="Poland",HBO 3 HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15092.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fightklub HD PL"  group-title="Poland",Fightklub HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15193.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="POWER TV HD PL"  group-title="Poland",POWER TV HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15186.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID HD PL"  group-title="Poland",ID HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15211.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Eleven Sports HD PL"  group-title="Poland",Eleven Sports HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15197.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Eleven HD PL"  group-title="Poland",Eleven HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15198.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DOMO PLUS HD PL"  group-title="Poland",DOMO PLUS HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15199.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Polsat Sport Fight HD PL"  group-title="Poland",Polsat Sport Fight HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15188.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Discovery Science HD PL"  group-title="Poland",Discovery Science HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15201.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Disney Junior PL"  group-title="Poland",Disney Junior PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15200.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Discovery Turbo Xtra HD PL"  group-title="Poland",Discovery Turbo Xtra HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15212.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TNT HD PL"  group-title="Poland",TNT HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15184.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Extreme Sports HD PL"  group-title="Poland",Extreme Sports HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15194.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="History PL"  group-title="Poland",History PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11193.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TO!TV PL"  group-title="Poland",TO!TV PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15183.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Romance TV PL"  group-title="Poland",Romance TV PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15207.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="POWER TV PL"  group-title="Poland",POWER TV PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15187.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Eska TV PL"  group-title="Poland",Eska TV PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15196.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Puls 2 PL"  group-title="Poland",Puls 2 PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15185.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Eurosport 2 HD PL"  group-title="Poland",Eurosport 2 HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15195.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Polsat News HD PL"  group-title="Poland",Polsat News HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15085.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nick Jr Polska PL"  group-title="Poland",Nick Jr Polska PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11706.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS Drama PL"  group-title="Poland",CBS Drama PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11517.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Polonia 1 PL"  group-title="Poland",Polonia 1 PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11711.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Polsat PL"  group-title="Poland",Polsat PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11186.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BBC HD PL"  group-title="Poland",BBC HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/13537.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BBC Earth HD PL"  group-title="Poland",BBC Earth HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/13538.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Planete PL"  group-title="Poland",Planete PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11188.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Orange Sport PL"  group-title="Poland",Orange Sport PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11631.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Comedy Central Polska PL"  group-title="Poland",Comedy Central Polska PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11707.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS Reality PL"  group-title="Poland",CBS Reality PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11518.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CC Family PL"  group-title="Poland",CC Family PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11704.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nat Geo Wild PL"  group-title="Poland",Nat Geo Wild PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11516.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AXN HD PL"  group-title="Poland",AXN HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11699.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Polsat Cafe HD PL"  group-title="Poland",Polsat Cafe HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11198.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Animal Planet HD PL"  group-title="Poland",Animal Planet HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/13540.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AXN Black PL"  group-title="Poland",AXN Black PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11512.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AXN Spin HD PL"  group-title="Poland",AXN Spin HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11629.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Polsat 2 HD PL"  group-title="Poland",Polsat 2 HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12817.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Polsat 2 PL"  group-title="Poland",Polsat 2 PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11185.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Polsat Cafe PL"  group-title="Poland",Polsat Cafe PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11184.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AXN White PL"  group-title="Poland",AXN White PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11513.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Boomerang PL"  group-title="Poland",Boomerang PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11522.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nickelodeon PL"  group-title="Poland",Nickelodeon PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11705.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="teleTOON PLUS HD PL"  group-title="Poland",teleTOON PLUS HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15206.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sundance HD PL"  group-title="Poland",Sundance HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15081.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Comedy PL"  group-title="Poland",Fox Comedy PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11634.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Stars.TV PL"  group-title="Poland",Stars.TV PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15082.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Comedy HD"  group-title="Poland",Fox Comedy HD
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11698.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Filmbox PL"  group-title="Poland",Filmbox PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11507.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Filmbox Family PL"  group-title="Poland",Filmbox Family PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11509.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Filmbox Premium PL"  group-title="Poland",Filmbox Premium PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11510.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fokus TV PL"  group-title="Poland",Fokus TV PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12821.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TELE 5 PL"  group-title="Poland",TELE 5 PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11630.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Filmbox Action PL"  group-title="Poland",Filmbox Action PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11508.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Discovery PL"  group-title="Poland",Discovery PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11519.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Discovery ID PL"  group-title="Poland",Discovery ID PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11525.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox HD PL"  group-title="Poland",Fox HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11697.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="nSport HD PL"  group-title="Poland",nSport HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11190.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MiniMini PL"  group-title="Poland",MiniMini PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11191.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Discovery Life PL"  group-title="Poland",Discovery Life PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11520.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Disney XD PL"  group-title="Poland",Disney XD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11524.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Eska PL"  group-title="Poland",Eska PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11197.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Disney HD PL"  group-title="Poland",Disney HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11523.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Discovery Science PL"  group-title="Poland",Discovery Science PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11521.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Discovery Turbo Xtra PL"  group-title="Poland",Discovery Turbo Xtra PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11195.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV 4 HD PL"  group-title="Poland",TV 4 HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11178.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV Puls PL"  group-title="Poland",TV Puls PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15078.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV6 PL"  group-title="Poland",TV6 PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11708.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TLC HD PL"  group-title="Poland",TLC HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15080.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Trace TV PL"  group-title="Poland",Trace TV PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15079.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV 4 PL"  group-title="Poland",TV 4 PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11179.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Polsat Sport News PL"  group-title="Poland",Polsat Sport News PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11199.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Polsat Sport Extra HD PL"  group-title="Poland",Polsat Sport Extra HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11201.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TLC PL"  group-title="Poland",TLC PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11632.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TNT PL"  group-title="Poland",TNT PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11633.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVP 3 PL"  group-title="Poland",TVP 3 PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15077.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sport Klub PL"  group-title="Poland",Sport Klub PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15083.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lifetime HD PL"  group-title="Poland",Lifetime HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15089.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VH1 PL"  group-title="Poland",VH1 PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11701.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Polsat Viasat History HD PL"  group-title="Poland",Polsat Viasat History HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15084.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVP Sport HD PL"  group-title="Poland",TVP Sport HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12826.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VIVA Polska PL"  group-title="Poland",VIVA Polska PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11700.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Motorwizja TV PL"  group-title="Poland",Motorwizja TV PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/13523.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVN PL"  group-title="Poland",TVN PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11176.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Polo TV PL"  group-title="Poland",Polo TV PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/13517.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVN7 PL"  group-title="Poland",TVN7 PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/13539.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVN 24 PL"  group-title="Poland",TVN 24 PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11171.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Polsat Sport HD PL"  group-title="Poland",Polsat Sport HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11200.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Zest TV PL"  group-title="Poland",Zest TV PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15072.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Active Family PL"  group-title="Poland",Active Family PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11196.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Universal HD PL"  group-title="Poland",Universal HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15073.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVP INFO PL"  group-title="Poland",TVP INFO PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15074.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Polsat HD PL"  group-title="Poland",Polsat HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11696.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVS PL"  group-title="Poland",TVS PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/12820.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nat Geo PL"  group-title="Poland",Nat Geo PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11515.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AXN PL"  group-title="Poland",AXN PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11511.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nat Geo People HD PL"  group-title="Poland",Nat Geo People HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15191.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nat Geo HD PL"  group-title="Poland",Nat Geo HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15087.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Polsat Film PL"  group-title="Poland",Polsat Film PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11183.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Polsat News 2 PL"  group-title="Poland",Polsat News 2 PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11181.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVP ABC PL"  group-title="Poland",TVP ABC PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15076.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Polsat Play PL"  group-title="Poland",Polsat Play PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11180.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Polsat Romans PL"  group-title="Poland",Polsat Romans PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11709.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Polsat Play HD PL"  group-title="Poland",Polsat Play HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11177.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Polsat News PL"  group-title="Poland",Polsat News PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11182.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV Polska PL"  group-title="Poland",MTV Polska PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11702.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV ROCKS PL"  group-title="Poland",MTV ROCKS PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11635.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV Live HD PL"  group-title="Poland",MTV Live HD PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11703.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVP Historia PL"  group-title="Poland",TVP Historia PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/15075.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Polsat JimJam PL"  group-title="Poland",Polsat JimJam PL
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/11710.ts
+
+#EXTINF:0, tvg-id="Sky Sport 1 DE" tvg-logo="http://secure.clientportal.link/picons/skysport1hd.png" tvg-name="Sky Sport 1 HD VIP DE"  group-title="VIP DE",Sky Sport 1 HD VIP DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/7326.ts
+
+#EXTINF:0, tvg-id="Sky Sport News DE" tvg-logo="http://secure.clientportal.link/picons/skysportnewshd.png" tvg-name="Sky Sport News HD VIP DE"  group-title="VIP DE",Sky Sport News HD VIP DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/7337.ts
+
+#EXTINF:0, tvg-id="Sky Select DE" tvg-logo="http://secure.clientportal.link/picons/skyselect.png" tvg-name="Sky Select 1 VIP DE"  group-title="VIP DE",Sky Select 1 VIP DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/7243.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga10hd.png" tvg-name="Sky Sport Bundesliga 10 HD VIP DE"  group-title="VIP DE",Sky Sport Bundesliga 10 HD VIP DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/7347.ts
+
+#EXTINF:0, tvg-id="Sky Sport 9 DE" tvg-logo="http://secure.clientportal.link/picons/skysport9hd.png" tvg-name="Sky Sport 9 HD VIP DE"  group-title="VIP DE",Sky Sport 9 HD VIP DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/7334.ts
+
+#EXTINF:0, tvg-id="Sky Sport Bundesliga 3 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga3hd.png" tvg-name="Sky Sport Bundesliga 3 HD VIP DE"  group-title="VIP DE",Sky Sport Bundesliga 3 HD VIP DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/7340.ts
+
+#EXTINF:0, tvg-id="Sky Sport 8 DE" tvg-logo="http://secure.clientportal.link/picons/skysport8hd.png" tvg-name="Sky Sport 8 HD VIP DE"  group-title="VIP DE",Sky Sport 8 HD VIP DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/7333.ts
+
+#EXTINF:0, tvg-id="Sky Sport Bundesliga 4 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga4hd.png" tvg-name="Sky Sport Bundesliga 4 HD VIP DE"  group-title="VIP DE",Sky Sport Bundesliga 4 HD VIP DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/7341.ts
+
+#EXTINF:0, tvg-id="Sky Sport 10 DE" tvg-logo="http://secure.clientportal.link/picons/skysport10hd.png" tvg-name="Sky Sport 10 HD VIP DE"  group-title="VIP DE",Sky Sport 10 HD VIP DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/7335.ts
+
+#EXTINF:0, tvg-id="Sky Sport 6 DE" tvg-logo="http://secure.clientportal.link/picons/skysport6hd.png" tvg-name="Sky Sport 6 HD VIP DE"  group-title="VIP DE",Sky Sport 6 HD VIP DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/7331.ts
+
+#EXTINF:0, tvg-id="Sky Sport Bundesliga 1 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga1hd.png" tvg-name="Sky Sport Bundesliga 1 HD VIP DE"  group-title="VIP DE",Sky Sport Bundesliga 1 HD VIP DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/7338.ts
+
+#EXTINF:0, tvg-id="Sky Sport 11 DE" tvg-logo="http://secure.clientportal.link/picons/skysport11hd.png" tvg-name="Sky Sport 11 HD VIP DE"  group-title="VIP DE",Sky Sport 11 HD VIP DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/7336.ts
+
+#EXTINF:0, tvg-id="Sky Sport Bundesliga 2 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga2hd.png" tvg-name="Sky Sport Bundesliga 2 HD VIP DE"  group-title="VIP DE",Sky Sport Bundesliga 2 HD VIP DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/7339.ts
+
+#EXTINF:0, tvg-id="Sky Sport 7 DE" tvg-logo="http://secure.clientportal.link/picons/skysport7hd.png" tvg-name="Sky Sport 7 HD VIP DE"  group-title="VIP DE",Sky Sport 7 HD VIP DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/7332.ts
+
+#EXTINF:0, tvg-id="Sky Sport Bundesliga 9 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga9hd.png" tvg-name="Sky Sport Bundesliga 9 HD VIP DE"  group-title="VIP DE",Sky Sport Bundesliga 9 HD VIP DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/7346.ts
+
+#EXTINF:0, tvg-id="Sky Sport Bundesliga 8 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga8hd.png" tvg-name="Sky Sport Bundesliga 8 HD VIP DE"  group-title="VIP DE",Sky Sport Bundesliga 8 HD VIP DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/7345.ts
+
+#EXTINF:0, tvg-id="Sky Sport 4 DE" tvg-logo="http://secure.clientportal.link/picons/skysport4hd.png" tvg-name="Sky Sport 4 HD VIP DE"  group-title="VIP DE",Sky Sport 4 HD VIP DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/7329.ts
+
+#EXTINF:0, tvg-id="Sky Sport 2 DE" tvg-logo="http://secure.clientportal.link/picons/skysport2hd.png" tvg-name="Sky Sport 2 HD VIP DE"  group-title="VIP DE",Sky Sport 2 HD VIP DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/7327.ts
+
+#EXTINF:0, tvg-id="Sky Sport 3 DE" tvg-logo="http://secure.clientportal.link/picons/skysport3hd.png" tvg-name="Sky Sport 3 HD VIP DE"  group-title="VIP DE",Sky Sport 3 HD VIP DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/7328.ts
+
+#EXTINF:0, tvg-id="Sky Sport Bundesliga 7 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga7hd.png" tvg-name="Sky Sport Bundesliga 7 HD VIP DE"  group-title="VIP DE",Sky Sport Bundesliga 7 HD VIP DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/7344.ts
+
+#EXTINF:0, tvg-id="Sky Sport 5 DE" tvg-logo="http://secure.clientportal.link/picons/skysport5hd.png" tvg-name="Sky Sport 5 HD VIP DE"  group-title="VIP DE",Sky Sport 5 HD VIP DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/7330.ts
+
+#EXTINF:0, tvg-id="Sky Sport Bundesliga 6 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga6hd.png" tvg-name="Sky Sport Bundesliga 6 HD VIP DE"  group-title="VIP DE",Sky Sport Bundesliga 6 HD VIP DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/7343.ts
+
+#EXTINF:0, tvg-id="Sky Sport Bundesliga 5 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga5hd.png" tvg-name="Sky Sport Bundesliga 5 HD VIP DE"  group-title="VIP DE",Sky Sport Bundesliga 5 HD VIP DE
+http://clientportal.link:8080/live/L2GGM77tAE/2nwhrFx96G/7342.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3659388.jpg" tvg-name="The Martian [DE] [2015]"  group-title="VOD: German",The Martian [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8390.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3488710.jpg" tvg-name="The Walk [DE] [2015]"  group-title="VOD: German",The Walk [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8391.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/not-found.jpg" tvg-name="Tod auf der Insel [DE] [2015]"  group-title="VOD: German",Tod auf der Insel [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8396.mp4
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/4044364.jpg" tvg-name="Citizenfour [DE] [2014]"  group-title="VOD: German",Citizenfour [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8482.mp4
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2650978.jpg" tvg-name="Das finstere Tal [DE] [2014]"  group-title="VOD: German",Das finstere Tal [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8483.mp4
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2726560.jpg" tvg-name="The Longest Ride [DE] [2015]"  group-title="VOD: German",The Longest Ride [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8388.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1638355.jpg" tvg-name="The Man from U.N.C.L.E.  [2015]"  group-title="VOD: German",The Man from U.N.C.L.E.  [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8389.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2234003.jpg" tvg-name="Calvary [DE] [2014]"  group-title="VOD: German",Calvary [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8481.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2870648.jpg" tvg-name="Amy [DE] [2015]"  group-title="VOD: German",Amy [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8348.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/4080858.jpg" tvg-name="Tut Sözünü [DE] [2015]"  group-title="VOD: German",Tut Sözünü [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8392.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2179136.jpg" tvg-name="American Sniper [DE] [2014]"  group-title="VOD: German",American Sniper [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8476.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2294449.jpg" tvg-name="22 Jump Street [DE] [2014]"  group-title="VOD: German",22 Jump Street [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8475.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3212568.jpg" tvg-name="Beltracchi - Die Kunst der Fälschung [DE] [2014]"  group-title="VOD: German",Beltracchi - Die Kunst der Fälschung [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8479.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1065073.jpg" tvg-name="Boyhood [DE] [2014]"  group-title="VOD: German",Boyhood [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8480.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3139086.jpg" tvg-name="Batman Assault on Arkham [DE] [2014]"  group-title="VOD: German",Batman Assault on Arkham [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8477.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2245084.jpg" tvg-name="Baymax - Riesiges Robowabohu [DE] [2014]"  group-title="VOD: German",Baymax - Riesiges Robowabohu [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8478.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2103281.jpg" tvg-name="Dawn of the Planet of the Apes [DE] [2014]"  group-title="VOD: German",Dawn of the Planet of the Apes [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8484.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/0816692.jpg" tvg-name="Interstellar [DE] [2014]"  group-title="VOD: German",Interstellar [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8500.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2802144.jpg" tvg-name="Kingsman The Secret Service [DE] [2014]"  group-title="VOD: German",Kingsman The Secret Service [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8501.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1646971.jpg" tvg-name="How to Train Your Dragon 2 [DE] [2014]"  group-title="VOD: German",How to Train Your Dragon 2 [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8498.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3825638.jpg" tvg-name="Im Labyrinth des Schweigens [DE] [2014]"  group-title="VOD: German",Im Labyrinth des Schweigens [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8499.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3612616.jpg" tvg-name="Mommy [DE] [2014]"  group-title="VOD: German",Mommy [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8504.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3824344.jpg" tvg-name="Monster High Freaky Fusion [DE] [2014]"  group-title="VOD: German",Monster High Freaky Fusion [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8505.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1638002.jpg" tvg-name="Rosie [DE] [2014]"  group-title="VOD: German",Rosie [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8502.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1587310.jpg" tvg-name="Maleficent [DE] [2014]"  group-title="VOD: German",Maleficent [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8503.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3670826.jpg" tvg-name="Dealer [DE] [2014]"  group-title="VOD: German",Dealer [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8486.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2883218.jpg" tvg-name="Der Goalie bin ig [DE] [2014]"  group-title="VOD: German",Der Goalie bin ig [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8487.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/4123262.jpg" tvg-name="Days of My Youth [DE] [2014]"  group-title="VOD: German",Days of My Youth [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8485.mp4
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2208568.jpg" tvg-name="Montana [DE] [2014]"  group-title="VOD: German",Montana [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8506.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2267998.jpg" tvg-name="Gone Girl [DE] [2014]"  group-title="VOD: German",Gone Girl [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8496.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2015381.jpg" tvg-name="Guardians of the Galaxy [DE] [2014]"  group-title="VOD: German",Guardians of the Galaxy [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8497.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1631867.jpg" tvg-name="Edge of Tomorrow [DE] [2014]"  group-title="VOD: German",Edge of Tomorrow [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8494.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2713180.jpg" tvg-name="Fury [DE] [2014]"  group-title="VOD: German",Fury [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8495.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3170900.jpg" tvg-name="Idealisten [DE] [2015]"  group-title="VOD: German",Idealisten [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8387.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2719848.jpg" tvg-name="Everest [DE] [2015]"  group-title="VOD: German",Everest [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8361.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2935476.jpg" tvg-name="Far from the Madding Crowd [DE] [2015]"  group-title="VOD: German",Far from the Madding Crowd [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8362.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1708135.jpg" tvg-name="Elser [DE] [2015]"  group-title="VOD: German",Elser [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8360.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3642618.jpg" tvg-name="Das ewige Leben [DE] [2015]"  group-title="VOD: German",Das ewige Leben [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8358.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3440298.jpg" tvg-name="Descendants [DE] [2015]"  group-title="VOD: German",Descendants [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8359.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2096673.jpg" tvg-name="Inside Out [DE] [2015]"  group-title="VOD: German",Inside Out [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8366.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2908446.jpg" tvg-name="Insurgent [DE] [2015]"  group-title="VOD: German",Insurgent [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8367.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2510894.jpg" tvg-name="Hotel Transylvania 2 [DE] [2015]"  group-title="VOD: German",Hotel Transylvania 2 [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8365.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2381941.jpg" tvg-name="Focus [DE] [2015]"  group-title="VOD: German",Focus [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8363.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1528854.jpg" tvg-name="Home [DE] [2015]"  group-title="VOD: German",Home [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8364.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3213684.jpg" tvg-name="1944 [DE] [2015]"  group-title="VOD: German",1944 [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8353.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3682448.jpg" tvg-name="Bridge of Spies [DE] [2015]"  group-title="VOD: German",Bridge of Spies [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8352.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1355683.jpg" tvg-name="Black Mass [DE] [2015]"  group-title="VOD: German",Black Mass [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8351.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/0478970.jpg" tvg-name="Ant-Man [DE] [2015]"  group-title="VOD: German",Ant-Man [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8349.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2395427.jpg" tvg-name="Avengers Age of Ultron [DE] [2015]"  group-title="VOD: German",Avengers Age of Ultron [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8350.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/4229236.jpg" tvg-name="Cobain Montage of Heck [DE] [2015]"  group-title="VOD: German",Cobain Montage of Heck [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8394.mp4
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2554274.jpg" tvg-name="Crimson Peak [DE] [2015]"  group-title="VOD: German",Crimson Peak [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8357.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2097298.jpg" tvg-name="City of McFarland [DE] [2015]"  group-title="VOD: German",City of McFarland [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8356.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/4126304.jpg" tvg-name="Cartel Land [DE] [2015]"  group-title="VOD: German",Cartel Land [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8354.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/0075850.jpg" tvg-name="Cinderella [DE] [2015]"  group-title="VOD: German",Cinderella [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8355.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3079380.jpg" tvg-name="Spy Susan Cooper Undercover [DE] [2015]"  group-title="VOD: German",Spy Susan Cooper Undercover [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8380.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2488496.jpg" tvg-name="Star Wars The Force Awakens [DE] [2015]"  group-title="VOD: German",Star Wars The Force Awakens [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8381.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1798684.jpg" tvg-name="Southpaw [DE] [2015]"  group-title="VOD: German",Southpaw [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8379.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3397884.jpg" tvg-name="Sicario [DE] [2015]"  group-title="VOD: German",Sicario [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8377.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3205376.jpg" tvg-name="Slow West [DE] [2015]"  group-title="VOD: German",Slow West [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8378.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1655441.jpg" tvg-name="The Age of Adaline [DE] [2015]"  group-title="VOD: German",The Age of Adaline [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8385.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1951266.jpg" tvg-name="The Hunger Games Mockingjay - Part 2 [DE] [2015]"  group-title="VOD: German",The Hunger Games Mockingjay - Part 2 [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8386.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1340138.jpg" tvg-name="Terminator Genisys [DE] [2015]"  group-title="VOD: German",Terminator Genisys [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8384.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1398426.jpg" tvg-name="Straight Outta Compton [DE] [2015]"  group-title="VOD: German",Straight Outta Compton [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8382.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2637276.jpg" tvg-name="Ted 2 [DE] [2015]"  group-title="VOD: German",Ted 2 [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8383.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3569230.jpg" tvg-name="Legend [DE] [2015]"  group-title="VOD: German",Legend [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8370.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3369806.jpg" tvg-name="Max [DE] [2015]"  group-title="VOD: German",Max [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8371.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3472226.jpg" tvg-name="Kung Fury [DE] [2015]"  group-title="VOD: German",Kung Fury [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8395.mp4
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2379713.jpg" tvg-name="James Bond - Spectre [DE] [2015]"  group-title="VOD: German",James Bond - Spectre [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8368.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/0369610.jpg" tvg-name="Jurassic World [DE] [2015]"  group-title="VOD: German",Jurassic World [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8369.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3822818.jpg" tvg-name="Nackt unter Wölfen [DE] [2015]"  group-title="VOD: German",Nackt unter Wölfen [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8375.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2901516.jpg" tvg-name="A Horse for Summer [DE] [2015]"  group-title="VOD: German",A Horse for Summer [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8376.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3405714.jpg" tvg-name="Mythica A Quest for Heroes [DE] [2015]"  group-title="VOD: German",Mythica A Quest for Heroes [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8374.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2381249.jpg" tvg-name="Mission Impossible - Rogue Nation [DE] [2015]"  group-title="VOD: German",Mission Impossible - Rogue Nation [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8372.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/4779496.jpg" tvg-name="Boo York [DE] [2015]"  group-title="VOD: German",Boo York [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8373.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2872718.jpg" tvg-name="Nightcrawler [DE] [2014]"  group-title="VOD: German",Nightcrawler [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8507.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3863140.jpg" tvg-name="Die Kleinen und die Bösen [DE] [2015]"  group-title="VOD: German",Die Kleinen und die Bösen [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10748.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3704416.jpg" tvg-name="Digging for Fire [DE] [2015]"  group-title="VOD: German",Digging for Fire [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10749.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3796936.jpg" tvg-name="Curse of the Witching Tree [DE] [2015]"  group-title="VOD: German",Curse of the Witching Tree [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10747.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3950488.jpg" tvg-name="Black Beauty [DE] [2015]"  group-title="VOD: German",Black Beauty [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10745.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2503944.jpg" tvg-name="Burnt [DE] [2015]"  group-title="VOD: German",Burnt [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10746.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/4966266.jpg" tvg-name="Familienfest [DE] [2015]"  group-title="VOD: German",Familienfest [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10753.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1817771.jpg" tvg-name="Freaks of Nature [DE] [2015]"  group-title="VOD: German",Freaks of Nature [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10754.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/4176826.jpg" tvg-name="Er ist wieder da [DE] [2015]"  group-title="VOD: German",Er ist wieder da [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10752.4
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3850214.jpg" tvg-name="Dope [DE] [2015]"  group-title="VOD: German",Dope [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10750.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3792960.jpg" tvg-name="El nuevo nuevo testamento [DE] [2015]"  group-title="VOD: German",El nuevo nuevo testamento [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10751.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/4084744.jpg" tvg-name="Bitva za Sevastopol [DE] [2015]"  group-title="VOD: German",Bitva za Sevastopol [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10744.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3013610.jpg" tvg-name="Mia madre [DE] [2015]"  group-title="VOD: German",Mia madre [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10785.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3332064.jpg" tvg-name="Pan [DE] [2015]"  group-title="VOD: German",Pan [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10786.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/4943934.jpg" tvg-name="Martian Land [DE] [2015]"  group-title="VOD: German",Martian Land [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10784.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2735292.jpg" tvg-name="L.A. Slasher [DE] [2015]"  group-title="VOD: German",L.A. Slasher [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10782.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2210787.jpg" tvg-name="Macho Man [DE] [2015]"  group-title="VOD: German",Macho Man [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10783.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3353138.jpg" tvg-name="Animus - The Tell-Tale Heart [DE] [2015]"  group-title="VOD: German",Animus - The Tell-Tale Heart [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10742.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2433040.jpg" tvg-name="Beyond the Mask [DE] [2015]"  group-title="VOD: German",Beyond the Mask [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10743.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3577624.jpg" tvg-name="A Perfect Day [DE] [2015]"  group-title="VOD: German",A Perfect Day [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10741.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3836512.jpg" tvg-name="Ratter [DE] [2015]"  group-title="VOD: German",Ratter [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10787.4
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/4337690.jpg" tvg-name="90 Minutes in Heaven [DE] [2015]"  group-title="VOD: German",90 Minutes in Heaven [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10740.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1951266.jpg" tvg-name="The Hunger Games - Mockingjay - Part 2 [DE] [2015]"  group-title="VOD: German",The Hunger Games - Mockingjay - Part 2 [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10796.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3530002.jpg" tvg-name="The Night Before [DE] [2015]"  group-title="VOD: German",The Night Before [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10797.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2910904.jpg" tvg-name="The Dressmaker [DE] [2015]"  group-title="VOD: German",The Dressmaker [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10795.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/4359416.jpg" tvg-name="Taxi [DE] [2015]"  group-title="VOD: German",Taxi [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10793.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3399896.jpg" tvg-name="Terminus [DE] [2015]"  group-title="VOD: German",Terminus [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10794.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3314218.jpg" tvg-name="UnReal [DE] [2015]"  group-title="VOD: German",UnReal [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10801.mp4
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2404425.jpg" tvg-name="Woman in Gold [DE] [2015]"  group-title="VOD: German",Woman in Gold [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10802.mp4
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/not-found.jpg" tvg-name="Twilight Over Burma [DE] [2015]"  group-title="VOD: German",Twilight Over Burma [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10800.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1663202.jpg" tvg-name="The Revenant [DE] [2015]"  group-title="VOD: German",The Revenant [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10798.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3881192.jpg" tvg-name="Trigger Point [DE] [2015]"  group-title="VOD: German",Trigger Point [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10799.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2080374.jpg" tvg-name="Steve Jobs [DE] [2015]"  group-title="VOD: German",Steve Jobs [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10792.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/4270516.jpg" tvg-name="Grandma [DE] [2015]"  group-title="VOD: German",Grandma [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10774.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3644730.jpg" tvg-name="Heaven on Earth [DE] [2015]"  group-title="VOD: German",Heaven on Earth [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10775.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1051904.jpg" tvg-name="Goosebumps [DE] [2015]"  group-title="VOD: German",Goosebumps [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10773.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2611652.jpg" tvg-name="Fúsi [DE] [2015]"  group-title="VOD: German",Fúsi [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10755.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2097333.jpg" tvg-name="Get Squirrely [DE] [2015]"  group-title="VOD: German",Get Squirrely [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10756.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1850457.jpg" tvg-name="Sisters [DE] [2015]"  group-title="VOD: German",Sisters [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10790.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2488496.jpg" tvg-name="Star Wars - Episode VII - The Force Awakens [DE] [2015]"  group-title="VOD: German",Star Wars - Episode VII - The Force Awakens [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10791.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2622672.jpg" tvg-name="Scream at the Devil [DE] [2015]"  group-title="VOD: German",Scream at the Devil [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10789.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/4766604.jpg" tvg-name="Highway to Hellas [DE] [2015]"  group-title="VOD: German",Highway to Hellas [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10776.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/4501276.jpg" tvg-name="Rettet Raffi [DE] [2015]"  group-title="VOD: German",Rettet Raffi [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10788.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2310332.jpg" tvg-name="The Hobbit - The Battle of the Five Armies [DE] [2014]"  group-title="VOD: German",The Hobbit - The Battle of the Five Armies [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8520.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2980648.jpg" tvg-name="The Hundred-Foot Journey [DE] [2014]"  group-title="VOD: German",The Hundred-Foot Journey [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8521.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2652092.jpg" tvg-name="The Good Lie [DE] [2014]"  group-title="VOD: German",The Good Lie [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8519.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/0455944.jpg" tvg-name="The Equalizer [DE] [2014]"  group-title="VOD: German",The Equalizer [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8517.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2582846.jpg" tvg-name="The Fault in Our Stars [DE] [2014]"  group-title="VOD: German",The Fault in Our Stars [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8518.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3383420.jpg" tvg-name="The Last Saint [DE] [2014]"  group-title="VOD: German",The Last Saint [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8525.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1490017.jpg" tvg-name="The Lego Movie [DE] [2014]"  group-title="VOD: German",The Lego Movie [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8526.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2199436.jpg" tvg-name="The Judgment [DE] [2014]"  group-title="VOD: German",The Judgment [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8524.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2084970.jpg" tvg-name="The Imitation Game [DE] [2014]"  group-title="VOD: German",The Imitation Game [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8522.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1872194.jpg" tvg-name="The Judge [DE] [2014]"  group-title="VOD: German",The Judge [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8523.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3010660.jpg" tvg-name="Stromberg - Der Film [DE] [2014]"  group-title="VOD: German",Stromberg - Der Film [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8543.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3264102.jpg" tvg-name="Red Army [DE] [2014]"  group-title="VOD: German",Red Army [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8511.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1679276.jpg" tvg-name="Oskar und die Tieferschatten [DE] [2014]"  group-title="VOD: German",Oskar und die Tieferschatten [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8542.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3169706.jpg" tvg-name="Pride [DE] [2014]"  group-title="VOD: German",Pride [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8510.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1109624.jpg" tvg-name="Paddington [DE] [2014]"  group-title="VOD: German",Paddington [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8509.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2338151.jpg" tvg-name="PK [DE] [2014]"  group-title="VOD: German",PK [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8508.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3316960.jpg" tvg-name="Still Alice - Mein Leben ohne Gestern [DE] [2014]"  group-title="VOD: German",Still Alice - Mein Leben ohne Gestern [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8515.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3069212.jpg" tvg-name="Street Fighter - Assassin's Fist [DE] [2014]"  group-title="VOD: German",Street Fighter - Assassin's Fist [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8516.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1020072.jpg" tvg-name="Selma [DE] [2014]"  group-title="VOD: German",Selma [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8514.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2988490.jpg" tvg-name="Road to your Heart [DE] [2014]"  group-title="VOD: German",Road to your Heart [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8512.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3029558.jpg" tvg-name="Rurôni Kenshin: Kyôto taika-hen [DE] [2014]"  group-title="VOD: German",Rurôni Kenshin: Kyôto taika-hen [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8513.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2737050.jpg" tvg-name="eine Nacht [DE] [2014]"  group-title="VOD: German",eine Nacht [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8541.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2379713.jpg" tvg-name="Spectre [2015]"  group-title="VOD: German",Spectre [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/9208.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2723240.jpg" tvg-name="Zeit der Kannibalen [DE] [2014]"  group-title="VOD: German",Zeit der Kannibalen [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8540.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1877832.jpg" tvg-name="X-Men: Days of Future Past [DE] [2014]"  group-title="VOD: German",X-Men: Days of Future Past [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8538.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1198156.jpg" tvg-name="You're Not You [DE] [2014]"  group-title="VOD: German",You're Not You [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8539.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3881700.jpg" tvg-name="Kept Woman - Die Gefangene [DE] [2015]"  group-title="VOD: German",Kept Woman - Die Gefangene [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10780.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3197766.jpg" tvg-name="Kill Zone 2 [DE] [2015]"  group-title="VOD: German",Kill Zone 2 [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10781.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3715320.jpg" tvg-name="Irrational Man [DE] [2015]"  group-title="VOD: German",Irrational Man [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10779.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2181814.jpg" tvg-name="Im Sommer wohnt er unten [DE] [2015]"  group-title="VOD: German",Im Sommer wohnt er unten [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10777.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1390411.jpg" tvg-name="In the Heart of the Sea [DE] [2015]"  group-title="VOD: German",In the Heart of the Sea [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/10778.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2758880.jpg" tvg-name="Winter Sleep (Winterschlaf) [DE]  [2014]"  group-title="VOD: German",Winter Sleep (Winterschlaf) [DE]  [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8537.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3674140.jpg" tvg-name="The Salt of the Earth [DE] [2014]"  group-title="VOD: German",The Salt of the Earth [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8530.mp4
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2980516.jpg" tvg-name="The Theory of Everything [DE] [2014]"  group-title="VOD: German",The Theory of Everything [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8531.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1843866.jpg" tvg-name="The Return of the First Avenger [DE] [2014]"  group-title="VOD: German",The Return of the First Avenger [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8529.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1790864.jpg" tvg-name="The Maze Runner [DE] [2014]"  group-title="VOD: German",The Maze Runner [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8527.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2265171.jpg" tvg-name="The Raid 2 [DE] [2014]"  group-title="VOD: German",The Raid 2 [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8528.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3042408.jpg" tvg-name="Who Am I - Kein System ist sicher [DE] [2014]"  group-title="VOD: German",Who Am I - Kein System ist sicher [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8535.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3011894.jpg" tvg-name="Wild Tales [DE] [2014]"  group-title="VOD: German",Wild Tales [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8536.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2582802.jpg" tvg-name="Whiplash [DE] [2014]"  group-title="VOD: German",Whiplash [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8534.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1243957.jpg" tvg-name="Turist [DE] [2014]"  group-title="VOD: German",Turist [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8532.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3416742.jpg" tvg-name="What We Do in the Shadows [DE] [2014]"  group-title="VOD: German",What We Do in the Shadows [DE] [2014]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/8533.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/5091548.jpg" tvg-name="Justice League vs. Teen Titans [DE] [2016]"  group-title="VOD: German",Justice League vs. Teen Titans [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12652.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/4616014.jpg" tvg-name="Jarhead 3 The Siege [DE] [2016]"  group-title="VOD: German",Jarhead 3 The Siege [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12651.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2140037.jpg" tvg-name="Jane Got a Gun [DE] [2016]"  group-title="VOD: German",Jane Got a Gun [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12650.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2267968.jpg" tvg-name="Kung Fu Panda 3 [DE] [2016]"  group-title="VOD: German",Kung Fu Panda 3 [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12655.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/4763168.jpg" tvg-name="Kindergarten Cop 2 [DE] [2016]"  group-title="VOD: German",Kindergarten Cop 2 [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12654.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2667380.jpg" tvg-name="Kill Command [DE] [2016]"  group-title="VOD: German",Kill Command [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12653.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1292566.jpg" tvg-name="How to Be Single [DE] [2016]"  group-title="VOD: German",How to Be Single [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12646.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/0475290.jpg" tvg-name="Caesar! [DE] [2016]"  group-title="VOD: German",Caesar! [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12644.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2404233.jpg" tvg-name="Gods of Egypt [DE] [2016]"  group-title="VOD: German",Gods of Egypt [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12643.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1628841.jpg" tvg-name="Independence Day 2 Wiederkehr [DE] [2016]"  group-title="VOD: German",Independence Day 2 Wiederkehr [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12649.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2583270.jpg" tvg-name="so schön [DE] [2015]"  group-title="VOD: German",so schön [DE] [2015]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12648.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/5480340.jpg" tvg-name="Ice Age The Great Egg-Scapade [DE] [2016]"  group-title="VOD: German",Ice Age The Great Egg-Scapade [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12647.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3774802.jpg" tvg-name="Pandemic [DE] [2016]"  group-title="VOD: German",Pandemic [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12663.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/5057382.jpg" tvg-name="Nur eine Handvoll Leben [DE] [2016]"  group-title="VOD: German",Nur eine Handvoll Leben [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12662.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/4438848.jpg" tvg-name="Neighbors 2 Sorority Rising [DE] [2016]"  group-title="VOD: German",Neighbors 2 Sorority Rising [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12661.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/4062896.jpg" tvg-name="Rodeo Girl [DE] [2016]"  group-title="VOD: German",Rodeo Girl [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12666.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2869728.jpg" tvg-name="Ride Along 2 [DE] [2016]"  group-title="VOD: German",Ride Along 2 [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12665.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/0837156.jpg" tvg-name="Pee-wee's Big Holiday [DE] [2016]"  group-title="VOD: German",Pee-wee's Big Holiday [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12664.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/4471388.jpg" tvg-name="Mafiya Igra na vyzhivanie [DE] [2016]"  group-title="VOD: German",Mafiya Igra na vyzhivanie [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12657.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3300542.jpg" tvg-name="London Has Fallen [DE] [2016]"  group-title="VOD: German",London Has Fallen [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12656.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/5548284.jpg" tvg-name="Lego Scooby-Doo! Haunted Hollywood [DE] [2016]"  group-title="VOD: German",Lego Scooby-Doo! Haunted Hollywood [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12692.mp4
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3760922.jpg" tvg-name="My Big Fat Greek Wedding 2 [DE] [2016]"  group-title="VOD: German",My Big Fat Greek Wedding 2 [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12660.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/5475710.jpg" tvg-name="Monster High Great Scarrier Reef [DE] [2016]"  group-title="VOD: German",Monster High Great Scarrier Reef [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12659.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2649554.jpg" tvg-name="Midnight Special [DE] [2016]"  group-title="VOD: German",Midnight Special [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12658.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3748440.jpg" tvg-name="Blue Mountain State The Rise of Thadland [DE] [2016]"  group-title="VOD: German",Blue Mountain State The Rise of Thadland [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12628.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/5042436.jpg" tvg-name="Batman Bad Blood [DE] [2016]"  group-title="VOD: German",Batman Bad Blood [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12627.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/5042436.jpg" tvg-name="Barbie Spy Squad [DE] [2016]"  group-title="VOD: German",Barbie Spy Squad [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12626.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/4054760.jpg" tvg-name="Das Geheimnis der Hebamme [DE] [2016]"  group-title="VOD: German",Das Geheimnis der Hebamme [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12631.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1489889.jpg" tvg-name="Central Intelligence [DE] [2016]"  group-title="VOD: German",Central Intelligence [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12630.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3263096.jpg" tvg-name="Boost [DE] [2016]"  group-title="VOD: German",Boost [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12629.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2980210.jpg" tvg-name="A Hologram for the King [DE] [2016]"  group-title="VOD: German",A Hologram for the King [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12623.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/4172430.jpg" tvg-name="13 Hours [DE] [2016]"  group-title="VOD: German",13 Hours [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12622.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1179933.jpg" tvg-name="10 Cloverfield Lane [DE] [2016]"  group-title="VOD: German",10 Cloverfield Lane [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12621.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3013160.jpg" tvg-name="Arrowhead [DE] [2016]"  group-title="VOD: German",Arrowhead [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12625.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/4820224.jpg" tvg-name="Anne of Green Gables [DE] [2016]"  group-title="VOD: German",Anne of Green Gables [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12691.mp4
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2567026.jpg" tvg-name="Alice Through the Looking Glass [DE] [2016]"  group-title="VOD: German",Alice Through the Looking Glass [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12624.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/not-found.jpg" tvg-name="Ehepause [DE] [2016]"  group-title="VOD: German",Ehepause [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12639.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1083452.jpg" tvg-name="Eddie the Eagle [DE] [2016]"  group-title="VOD: German",Eddie the Eagle [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12638.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1860213.jpg" tvg-name="Dirty Grandpa [DE] [2016]"  group-title="VOD: German",Dirty Grandpa [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12686.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/4012664.jpg" tvg-name="Fegefeuer [DE] [2016]"  group-title="VOD: German",Fegefeuer [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12642.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/4117206.jpg" tvg-name="Fast Convoy [DE] [2016]"  group-title="VOD: German",Fast Convoy [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12641.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/not-found.jpg" tvg-name="Ein Sommer auf Lanzarote [DE] [2016]"  group-title="VOD: German",Ein Sommer auf Lanzarote [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12640.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/5154896.jpg" tvg-name="Der geilste Tag [DE] [2016]"  group-title="VOD: German",Der geilste Tag [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12634.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/not-found.jpg" tvg-name="Der Athen Krimi - Trojanische Pferde [DE] [2016]"  group-title="VOD: German",Der Athen Krimi - Trojanische Pferde [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12632.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1431045.jpg" tvg-name="Deadpool [DE] [2016]"  group-title="VOD: German",Deadpool [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12685.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/5307134.jpg" tvg-name="Die Hebamme 2 [DE] [2016]"  group-title="VOD: German",Die Hebamme 2 [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12637.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/5431754.jpg" tvg-name="Die Akte General [DE] [2016]"  group-title="VOD: German",Die Akte General [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12636.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/5478186.jpg" tvg-name="Der Hodscha und die Piepenkötter [DE] [2016]"  group-title="VOD: German",Der Hodscha und die Piepenkötter [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12633.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3799694.jpg" tvg-name="The Nice Guys [DE] [2016]"  group-title="VOD: German",The Nice Guys [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12677.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2260254.jpg" tvg-name="The Other Side of the Mirror [DE] [2016]"  group-title="VOD: German",The Other Side of the Mirror [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12678.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3733774.jpg" tvg-name="The Trust [DE] [2016]"  group-title="VOD: German",The Trust [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12679.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2452386.jpg" tvg-name="The Fundamentals of Caring [DE] [2016]"  group-title="VOD: German",The Fundamentals of Caring [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12676.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/4769836.jpg" tvg-name="The Do-Over [DE] [2016]"  group-title="VOD: German",The Do-Over [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12673.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/4061908.jpg" tvg-name="The Fall of the Krays [DE] [2016]"  group-title="VOD: German",The Fall of the Krays [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12674.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2025690.jpg" tvg-name="The Finest Hours [DE] [2016]"  group-title="VOD: German",The Finest Hours [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12675.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/0803096.jpg" tvg-name="Warcraft [DE] [2016]"  group-title="VOD: German",Warcraft [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12689.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3385516.jpg" tvg-name="X-Men Apocalypse [DE] [2016]"  group-title="VOD: German",X-Men Apocalypse [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12684.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2948356.jpg" tvg-name="Zootopia [DE] [2016]"  group-title="VOD: German",Zootopia [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12690.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3352390.jpg" tvg-name="Unfriend [DE] [2016]"  group-title="VOD: German",Unfriend [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12683.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3533916.jpg" tvg-name="The Veil [DE] [2016]"  group-title="VOD: German",The Veil [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12680.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/4731008.jpg" tvg-name="The Wild Life [DE] [2016]"  group-title="VOD: German",The Wild Life [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12681.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3399078.jpg" tvg-name="Time Rush [DE] [2016]"  group-title="VOD: German",Time Rush [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12682.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3882082.jpg" tvg-name="The Boy [DE] [2016]"  group-title="VOD: German",The Boy [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12671.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3065204.jpg" tvg-name="The Conjuring 2 [DE] [2016]"  group-title="VOD: German",The Conjuring 2 [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12672.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/4181052.jpg" tvg-name="Special Correspondents [DE] [2016]"  group-title="VOD: German",Special Correspondents [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12667.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/3703908.jpg" tvg-name="Standoff [DE] [2016]"  group-title="VOD: German",Standoff [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12668.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/1985949.jpg" tvg-name="The Angry Birds Movie [DE] [2016]"  group-title="VOD: German",The Angry Birds Movie [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12670.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2702724.jpg" tvg-name="The Boss [DE] [2016]"  group-title="VOD: German",The Boss [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12688.mkv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://clientportal.link:8080/images/2304933.jpg" tvg-name="The 5th Wave [DE] [2016]"  group-title="VOD: German",The 5th Wave [DE] [2016]
+http://clientportal.link:8080/movie/L2GGM77tAE/2nwhrFx96G/12669.mkv
+
