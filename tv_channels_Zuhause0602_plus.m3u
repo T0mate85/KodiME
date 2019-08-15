@@ -1,0 +1,975 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="▬ Germany [DE] ▬" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/germany.png" group-title="LIVE: Germany",▬ Germany [DE] ▬
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/16532.ts
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="13th Street FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/13thstreethd.png" group-title="LIVE: Germany",13th Street FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14060.ts
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/3sat.png" group-title="LIVE: Germany",3sat DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/12341.ts
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/3sathd.png" group-title="LIVE: Germany",3sat HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/16497.ts
+#EXTINF:-1 tvg-id="AandE.de" tvg-name="A&E DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/ae.png" group-title="LIVE: Germany",A&E DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/13109.ts
+#EXTINF:-1 tvg-id="AandE.de" tvg-name="A&E FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/aehd.png" group-title="LIVE: Germany",A&E FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14059.ts
+#EXTINF:-1 tvg-id="AnimalPlanet.de" tvg-name="Animal Planet HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/animalplanethd.png" group-title="LIVE: Germany",Animal Planet HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/9561.ts
+#EXTINF:-1 tvg-id="Anixe.de" tvg-name="ANIXE DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/anixe.png" group-title="LIVE: Germany",ANIXE DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/3445.ts
+#EXTINF:-1 tvg-id="Anixe.de" tvg-name="ANIXE FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/anixehd.png" group-title="LIVE: Germany",ANIXE FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14576.ts
+#EXTINF:-1 tvg-id="Arte.de" tvg-name="Arte FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/artehd.png" group-title="LIVE: Germany",Arte FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/16496.ts
+#EXTINF:-1 tvg-id="AstroTV.de" tvg-name="Astro TV DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/astrotv.png" group-title="LIVE: Germany",Astro TV DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/12339.ts
+#EXTINF:-1 tvg-id="AXN.de" tvg-name="AXN DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/axnhd.png" group-title="LIVE: Germany",AXN DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/9562.ts
+#EXTINF:-1 tvg-id="AXN.de" tvg-name="AXN HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/axnhd.png" group-title="LIVE: Germany",AXN HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/17498.ts
+#EXTINF:-1 tvg-id="Boomerang.de" tvg-name="Boomerang DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/boomerang.png" group-title="LIVE: Germany",Boomerang DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/12315.ts
+#EXTINF:-1 tvg-id="BR.de" tvg-name="BR Fernsehen Nord DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/br.png" group-title="LIVE: Germany",BR Fernsehen Nord DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/12322.ts
+#EXTINF:-1 tvg-id="BR.de" tvg-name="BR Fernsehen Nord HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/brhd.png" group-title="LIVE: Germany",BR Fernsehen Nord HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/16495.ts
+#EXTINF:-1 tvg-id="CartoonNetwork.de" tvg-name="Cartoon Network DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/cartoonnetwork.png" group-title="LIVE: Germany",Cartoon Network DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15565.ts
+#EXTINF:-1 tvg-id="Classica.de" tvg-name="CLASSICA DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/classica.png" group-title="LIVE: Germany",CLASSICA DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/9555.ts
+#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/comedycentral_viva.png" group-title="LIVE: Germany",Comedy Central FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/17280.ts
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/daserstehd.png" group-title="LIVE: Germany",Das Erste FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/16493.ts
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/daserstehd.png" group-title="LIVE: Germany",Das Erste HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/22824.ts
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/daserstehd.png" group-title="LIVE: Germany",Das Erste DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/3451.ts
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="Deluxe Music DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/deluxemusic.png" group-title="LIVE: Germany",Deluxe Music DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/9554.ts
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="Deluxe Music FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/deluxemusichd.png" group-title="LIVE: Germany",Deluxe Music FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14057.ts
+#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/deutschesmusikfernsehen.png" group-title="LIVE: Germany",Deutsches Musik Fernsehen DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/12334.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.de" tvg-name="Discovery Channel FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/discoverychannelhd.png" group-title="LIVE: Germany",Discovery Channel FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14063.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.de" tvg-name="Discovery Channel DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/discoverychannelhd.png" group-title="LIVE: Germany",Discovery Channel DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/3426.ts
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/discovery.png" group-title="LIVE: Germany",Disney Channel DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/3622.ts
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/disneychannelhd.png" group-title="LIVE: Germany",Disney Channel FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14056.ts
+#EXTINF:-1 tvg-id="DisneyCinemagic.de" tvg-name="Disney Cinemagic FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/disneycinemagichd.png" group-title="LIVE: Germany",Disney Cinemagic FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14312.ts
+#EXTINF:-1 tvg-id="DisneyJunior.de" tvg-name="Disney Junior HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/disneyjnrhd.png" group-title="LIVE: Germany",Disney Junior HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15566.ts
+#EXTINF:-1 tvg-id="DisneyXD.de" tvg-name="Disney XD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/disneyxd.png" group-title="LIVE: Germany",Disney XD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/9547.ts
+#EXTINF:-1 tvg-id="DMax.de" tvg-name="DMAX DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/dmax.png" group-title="LIVE: Germany",DMAX DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/3431.ts
+#EXTINF:-1 tvg-id="DMAX.de" tvg-name="DMAX HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Germany",DMAX HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/19683.ts
+#EXTINF:-1 tvg-id="EEntertainment.de" tvg-name="E! HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/e.png" group-title="LIVE: Germany",E! HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15567.ts
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport 1 DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/eurosport1hd.png" group-title="LIVE: Germany",Eurosport 1 DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/19101.ts
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport 1 FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/eurosport1hd.png" group-title="LIVE: Germany",Eurosport 1 FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/3435.ts
+#EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="Eurosport 2 HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/eurosport2hd.png" group-title="LIVE: Germany",Eurosport 2 HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15568.ts
+#EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="Eurosport 2 Xtra HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Germany",Eurosport 2 Xtra HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/17281.ts
+#EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="Eurosport 2 Xtra FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Germany",Eurosport 2 Xtra FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/19099.ts
+#EXTINF:-1 tvg-id="FIXandFOXI.de" tvg-name="Fix & Foxi DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/fixundfoxi.png" group-title="LIVE: Germany",Fix & Foxi DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/20263.ts
+#EXTINF:-1 tvg-id="FolxTV.de" tvg-name="Folx TV DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/folxtv.png" group-title="LIVE: Germany",Folx TV DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/12319.ts
+#EXTINF:-1 tvg-id="Fox.de" tvg-name="FOX FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/foxhd.png" group-title="LIVE: Germany",FOX FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14055.ts
+#EXTINF:-1 tvg-id="Fox.de" tvg-name="FOX HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/foxhd.png" group-title="LIVE: Germany",FOX HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/3425.ts
+#EXTINF:-1 tvg-id="Heimatkanal.de" tvg-name="Heimatkanal DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/heimatkanal.png" group-title="LIVE: Germany",Heimatkanal DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/9558.ts
+#EXTINF:-1 tvg-id="History.de" tvg-name="History DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/history.png" group-title="LIVE: Germany",History DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/3424.ts
+#EXTINF:-1 tvg-id="History.de" tvg-name="History FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/historyhd.png" group-title="LIVE: Germany",History FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14311.ts
+#EXTINF:-1 tvg-id="hr-Fernsehen.de" tvg-name="hr-Fernsehen DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/hrfernsehen.png" group-title="LIVE: Germany",hr-Fernsehen DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/12316.ts
+#EXTINF:-1 tvg-id="Jukebox.de" tvg-name="JukeBox DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/jukebox.png" group-title="LIVE: Germany",JukeBox DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15579.ts
+#EXTINF:-1 tvg-id="Junior.de" tvg-name="Junior DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/junior.png" group-title="LIVE: Germany",Junior DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/20207.ts
+#EXTINF:-1 tvg-id="Kabel1.de" tvg-name="Kabel Eins FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/kabeleinshd.png" group-title="LIVE: Germany",Kabel Eins FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/1649.ts
+#EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKa DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/kika.png" group-title="LIVE: Germany",KiKa DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/1648.ts
+#EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKA FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/kikahd.png" group-title="LIVE: Germany",KiKA FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/16492.ts
+#EXTINF:-1 tvg-id="Kinowelt.de" tvg-name="Kinowelt TV DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/kinowelttv.png" group-title="LIVE: Germany",Kinowelt TV DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/12291.ts
+#EXTINF:-1 tvg-id="MDRSachsen.de" tvg-name="MDR SACHSEN-ANHALT FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/mdrsanhalthd.png" group-title="LIVE: Germany",MDR SACHSEN-ANHALT FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15750.ts
+#EXTINF:-1 tvg-id="MotorVision.de" tvg-name="Motorvision TV DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/motorvisiontv.png" group-title="LIVE: Germany",Motorvision TV DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/9564.ts
+#EXTINF:-1 tvg-id="MTVGermany.de" tvg-name="MTV HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/mtvhd.png" group-title="LIVE: Germany",MTV HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15759.ts
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/ntv.png" group-title="LIVE: Germany",n-tv DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/3449.ts
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/ntvhd.png" group-title="LIVE: Germany",n-tv FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14054.ts
+#EXTINF:-1 tvg-id="Welt.de" tvg-name="Welt FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/weltde.png" group-title="LIVE: Germany",Welt FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14573.ts
+#EXTINF:-1 tvg-id="Welt.de" tvg-name="Welt DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/weltde.png" group-title="LIVE: Germany",Welt DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/3448.ts
+#EXTINF:-1 tvg-id="NatGeoWild.de" tvg-name="National Geographic Wild FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/natgeowildhd.png" group-title="LIVE: Germany",National Geographic Wild FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14062.ts
+#EXTINF:-1 tvg-id="NatGeoWild.de" tvg-name="National Geographic Wild HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/natgeowildhd.png" group-title="LIVE: Germany",National Geographic Wild HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/1646.ts
+#EXTINF:-1 tvg-id="NatGeo.de" tvg-name="National Geographic FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nationalgeographichd.png" group-title="LIVE: Germany",National Geographic FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14053.ts
+#EXTINF:-1 tvg-id="NDRFSSH.de" tvg-name="NDR Fernsehen Schleswig-Holstein FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/ndr.png" group-title="LIVE: Germany",NDR Fernsehen Schleswig-Holstein FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/16488.ts
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/ndrhd.png" group-title="LIVE: Germany",NDR HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/3443.ts
+#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nickelodeon.png" group-title="LIVE: Germany",Nickelodeon DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/19100.ts
+#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nick/MTV+ HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nickelodeonhd.png" group-title="LIVE: Germany",Nick/MTV+ HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14571.ts
+#EXTINF:-1 tvg-id="Phoenix.de" tvg-name="Phoenix DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/phoenix.png" group-title="LIVE: Germany",Phoenix DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/3454.ts
+#EXTINF:-1 tvg-id="Phoenix.de" tvg-name="Phoenix FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/phoenixhd.png" group-title="LIVE: Germany",Phoenix FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/16487.ts
+#EXTINF:-1 tvg-id="PLANET.de" tvg-name="Planet HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Germany",Planet HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/18394.ts
+#EXTINF:-1 tvg-id="" tvg-name="Popcorn Select 1 FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Germany",Popcorn Select 1 FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/18234.ts
+#EXTINF:-1 tvg-id="" tvg-name="Popcorn Select 2 FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Germany",Popcorn Select 2 FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/18235.ts
+#EXTINF:-1 tvg-id="" tvg-name="Popcorn Select 3 FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Germany",Popcorn Select 3 FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/18236.ts
+#EXTINF:-1 tvg-id="" tvg-name="Popcorn Select 4 HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Germany",Popcorn Select 4 HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/18237.ts
+#EXTINF:-1 tvg-id="" tvg-name="Popcorn Select 5 HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Germany",Popcorn Select 5 HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/18238.ts
+#EXTINF:-1 tvg-id="" tvg-name="Popcorn Select 6 HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Germany",Popcorn Select 6 HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/18239.ts
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/prosieben.png" group-title="LIVE: Germany",ProSieben DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/1642.ts
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/prosiebenhd.png" group-title="LIVE: Germany",ProSieben FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14052.ts
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/prosiebenmaxx.png" group-title="LIVE: Germany",ProSieben Maxx DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/3444.ts
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/prosiebenmaxxhd.png" group-title="LIVE: Germany",ProSieben Maxx FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14051.ts
+#EXTINF:-1 tvg-id="rbbBerlin.de" tvg-name="rbb Fernsehen Berlin FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/rbbberlinhd.png" group-title="LIVE: Germany",rbb Fernsehen Berlin FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15747.ts
+#EXTINF:-1 tvg-id="rbbBrandenburg.de" tvg-name="rbb Fernsehen Brandenburg FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/rbbbrandenburg.png" group-title="LIVE: Germany",rbb Fernsehen Brandenburg FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15754.ts
+#EXTINF:-1 tvg-id="One.de" tvg-name="One FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/onehd.png" group-title="LIVE: Germany",One FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15751.ts
+#EXTINF:-1 tvg-id="RegioTV.de" tvg-name="Regio TV DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/regiotv.png" group-title="LIVE: Germany",Regio TV DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/12328.ts
+#EXTINF:-1 tvg-id="Romance.de" tvg-name="Romance TV DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/romancetv.png" group-title="LIVE: Germany",Romance TV DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/13111.ts
+#EXTINF:-1 tvg-id="RTLCrime.de" tvg-name="RTL Crime HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/rtlcrimehd.png" group-title="LIVE: Germany",RTL Crime HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15570.ts
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL FS DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/rtlfs.png" group-title="LIVE: Germany",RTL FS DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/12300.ts
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL HB NDS DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/rtl.png" group-title="LIVE: Germany",RTL HB NDS DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/12299.ts
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/rtlhd.png" group-title="LIVE: Germany",RTL FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14049.ts
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/rtlhd.png" group-title="LIVE: Germany",RTL HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/3825.ts
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL II DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/rtl2.png" group-title="LIVE: Germany",RTL II DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/3826.ts
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL II FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/rtl2hd.png" group-title="LIVE: Germany",RTL II FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14050.ts
+#EXTINF:-1 tvg-id="RTLLiving.de" tvg-name="RTL Living HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/rtlliving.png" group-title="LIVE: Germany",RTL Living HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/3202.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTL Plus DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Germany",RTL Plus DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/19655.ts
+#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="NITRO DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/rtlnitro.png" group-title="LIVE: Germany",NITRO DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/1639.ts
+#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="NITRO HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/rtlnitrohd.png" group-title="LIVE: Germany",NITRO HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14048.ts
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL WEST DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/rtlwest.png" group-title="LIVE: Germany",RTL WEST DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/12298.ts
+#EXTINF:-1 tvg-id="RTLPassion.de" tvg-name="RTL Passion FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/rtlpassion.png" group-title="LIVE: Germany",RTL Passion FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/9563.ts
+#EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="RTLplus DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/rtlplus.png" group-title="LIVE: Germany",RTLplus DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/12297.ts
+#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="SAT.1 Gold DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/sat1gold.png" group-title="LIVE: Germany",SAT.1 Gold DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/12309.ts
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1 FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/sat1hd.png" group-title="LIVE: Germany",SAT.1 FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14047.ts
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1 DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/sat1hd.png" group-title="LIVE: Germany",SAT.1 DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/1637.ts
+#EXTINF:-1 tvg-id="ServusTV.de" tvg-name="ServusTV DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/servustv.png" group-title="LIVE: Germany",ServusTV DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/12307.ts
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/sixx.png" group-title="LIVE: Germany",Sixx DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/9560.ts
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/sixxhd.png" group-title="LIVE: Germany",Sixx FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14046.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky 1 HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/sky1hd.png" group-title="LIVE: Germany",Sky 1 HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/9557.ts
+#EXTINF:-1 tvg-id="SkyAtlantic.de" tvg-name="Sky Atlantic FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skyatlantichd.png" group-title="LIVE: Germany",Sky Atlantic FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14306.ts
+#EXTINF:-1 tvg-id="SkyCinemaPlus1.de" tvg-name="Sky Cinema +1 HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skycinemaplus1hd.png" group-title="LIVE: Germany",Sky Cinema +1 HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15574.ts
+#EXTINF:-1 tvg-id="SkyCinemaPlus24.de" tvg-name="Sky Cinema +24 DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skycinemaplus24.png" group-title="LIVE: Germany",Sky Cinema +24 DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/1633.ts
+#EXTINF:-1 tvg-id="SkyCinemaPlus24.de" tvg-name="Sky Cinema +24 HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skycinemaplus24hd.png" group-title="LIVE: Germany",Sky Cinema +24 HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15575.ts
+#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="Sky Action FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skycinemaactionhd.png" group-title="LIVE: Germany",Sky Action FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14307.ts
+#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="Sky Action DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skycinemaactionhd.png" group-title="LIVE: Germany",Sky Action DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/3432.ts
+#EXTINF:-1 tvg-id="SkyCinema.de" tvg-name="Sky Cinema DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skycinema.png" group-title="LIVE: Germany",Sky Cinema DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/1634.ts
+#EXTINF:-1 tvg-id="SkyFamily.de" tvg-name="Sky Family FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skycinemafamilyhd.png" group-title="LIVE: Germany",Sky Family FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15576.ts
+#EXTINF:-1 tvg-id="SkyCinema.de" tvg-name="Sky Cinema FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skycinemahd.png" group-title="LIVE: Germany",Sky Cinema FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14061.ts
+#EXTINF:-1 tvg-id="SkyCinema.de" tvg-name="Sky Cinema HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skycinemahd.png" group-title="LIVE: Germany",Sky Cinema HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/3420.ts
+#EXTINF:-1 tvg-id="SkyHits.de" tvg-name="Sky Hits FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skycinemahitshd.png" group-title="LIVE: Germany",Sky Hits FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14305.ts
+#EXTINF:-1 tvg-id="SkyComedy.de" tvg-name="Sky Comedy DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skycomedy.png" group-title="LIVE: Germany",Sky Comedy DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/3430.ts
+#EXTINF:-1 tvg-id="SkyEmotion.de" tvg-name="Sky Emotion DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skyemotion.png" group-title="LIVE: Germany",Sky Emotion DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/1631.ts
+#EXTINF:-1 tvg-id="SkyKrimi.de" tvg-name="Sky Krimi DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skykrimi.png" group-title="LIVE: Germany",Sky Krimi DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/3429.ts
+#EXTINF:-1 tvg-id="SkyNostalgie.de" tvg-name="Sky Nostalgie DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skynostalgie.png" group-title="LIVE: Germany",Sky Nostalgie DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/9556.ts
+#EXTINF:-1 tvg-id="SkySelect1.de" tvg-name="Sky Select 1 Live DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skyselect.png" group-title="LIVE: Germany",Sky Select 1 Live DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11265.ts
+#EXTINF:-1 tvg-id="SkySelect2.de" tvg-name="Sky Select 2 Live DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skyselect.png" group-title="LIVE: Germany",Sky Select 2 Live DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11266.ts
+#EXTINF:-1 tvg-id="EEntertainment.de" tvg-name="E! DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/e.png" group-title="LIVE: Germany",E! DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/16502.ts
+#EXTINF:-1 tvg-id="SkySelect3.de" tvg-name="Sky Select 3 Live DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skyselect.png" group-title="LIVE: Germany",Sky Select 3 Live DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11267.ts
+#EXTINF:-1 tvg-id="SkySelect4.de" tvg-name="Sky Select 4 Live DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skyselect.png" group-title="LIVE: Germany",Sky Select 4 Live DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11268.ts
+#EXTINF:-1 tvg-id="SkySelect5.de" tvg-name="Sky Select 5 Live DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skyselect.png" group-title="LIVE: Germany",Sky Select 5 Live DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11269.ts
+#EXTINF:-1 tvg-id="SkySelect6.de" tvg-name="Sky Select 6 Live DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skyselect.png" group-title="LIVE: Germany",Sky Select 6 Live DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11270.ts
+#EXTINF:-1 tvg-id="SkySelect7.de" tvg-name="Sky Select 7 Live DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skyselect.png" group-title="LIVE: Germany",Sky Select 7 Live DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11271.ts
+#EXTINF:-1 tvg-id="SkySelect8.de" tvg-name="Sky Select 8 Live DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skyselect.png" group-title="LIVE: Germany",Sky Select 8 Live DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11272.ts
+#EXTINF:-1 tvg-id="SkySelect9.de" tvg-name="Sky Select 9 Live DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skyselect.png" group-title="LIVE: Germany",Sky Select 9 Live DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/12290.ts
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1 DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysport1.png" group-title="LIVE: Germany",Sky Sport 1 DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14559.ts
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1 HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysport1hd.png" group-title="LIVE: Germany",Sky Sport 1 HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/1479.ts
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1 FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysport1hd.png" group-title="LIVE: Germany",Sky Sport 1 FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/7326.ts
+#EXTINF:-1 tvg-id="SkySport10.de" tvg-name="Sky Sport 10 FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysport10hd.png" group-title="LIVE: Germany",Sky Sport 10 FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/7335.ts
+#EXTINF:-1 tvg-id="SkySport11.de" tvg-name="Sky Sport 11 HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysport11hd.png" group-title="LIVE: Germany",Sky Sport 11 HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/7336.ts
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysport2.png" group-title="LIVE: Germany",Sky Sport 2 DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14560.ts
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysport2hd.png" group-title="LIVE: Germany",Sky Sport 2 HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/1480.ts
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysport2hd.png" group-title="LIVE: Germany",Sky Sport 2 FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/7327.ts
+#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="Sky Sport 3 DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysport3.png" group-title="LIVE: Germany",Sky Sport 3 DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14561.ts
+#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="Sky Sport 3 FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysport3hd.png" group-title="LIVE: Germany",Sky Sport 3 FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/7328.ts
+#EXTINF:-1 tvg-id="SkySport4.de" tvg-name="Sky Sport 4 DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysport4.png" group-title="LIVE: Germany",Sky Sport 4 DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14562.ts
+#EXTINF:-1 tvg-id="SkySport4.de" tvg-name="Sky Sport 4 FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysport4hd.png" group-title="LIVE: Germany",Sky Sport 4 FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/7329.ts
+#EXTINF:-1 tvg-id="SkySport5.de" tvg-name="Sky Sport 5 DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysport5.png" group-title="LIVE: Germany",Sky Sport 5 DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14563.ts
+#EXTINF:-1 tvg-id="SkySport5.de" tvg-name="Sky Sport 5 FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysport5hd.png" group-title="LIVE: Germany",Sky Sport 5 FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/7330.ts
+#EXTINF:-1 tvg-id="SkySport6.de" tvg-name="Sky Sport 6 DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysport6.png" group-title="LIVE: Germany",Sky Sport 6 DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14564.ts
+#EXTINF:-1 tvg-id="SkySport6.de" tvg-name="Sky Sport 6 FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysport6hd.png" group-title="LIVE: Germany",Sky Sport 6 FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/7331.ts
+#EXTINF:-1 tvg-id="SkySport7.de" tvg-name="Sky Sport 7 DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysport7.png" group-title="LIVE: Germany",Sky Sport 7 DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14565.ts
+#EXTINF:-1 tvg-id="SkySport7.de" tvg-name="Sky Sport 7 FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysport7hd.png" group-title="LIVE: Germany",Sky Sport 7 FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/7332.ts
+#EXTINF:-1 tvg-id="SkySport8.de" tvg-name="Sky Sport 8 DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysport8.png" group-title="LIVE: Germany",Sky Sport 8 DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14566.ts
+#EXTINF:-1 tvg-id="SkySport8.de" tvg-name="Sky Sport 8 FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysport8hd.png" group-title="LIVE: Germany",Sky Sport 8 FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/7333.ts
+#EXTINF:-1 tvg-id="SkySport9.de" tvg-name="Sky Sport 9 DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysport9.png" group-title="LIVE: Germany",Sky Sport 9 DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14567.ts
+#EXTINF:-1 tvg-id="SkySport9.de" tvg-name="Sky Sport 9 FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysport9hd.png" group-title="LIVE: Germany",Sky Sport 9 FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/7334.ts
+#EXTINF:-1 tvg-id="SkySportAustria.de" tvg-name="Sky Sport Austria DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysportaustria.png" group-title="LIVE: Germany",Sky Sport Austria DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/9551.ts
+#EXTINF:-1 tvg-id="SkySportAustria.de" tvg-name="Sky Sport Austria HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysportaustriahd.png" group-title="LIVE: Germany",Sky Sport Austria HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15578.ts
+#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="Sky Bundesliga 1 DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysportbundesliga1.png" group-title="LIVE: Germany",Sky Bundesliga 1 DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14550.ts
+#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="Sky Bundesliga 1 HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysportbundesliga1hd.png" group-title="LIVE: Germany",Sky Bundesliga 1 HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/3436.ts
+#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="Sky Bundesliga 1 FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysportbundesliga1hd.png" group-title="LIVE: Germany",Sky Bundesliga 1 FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/7338.ts
+#EXTINF:-1 tvg-id="SkyBundesliga10.de" tvg-name="Sky Bundesliga 10 DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysportbundesliga10.png" group-title="LIVE: Germany",Sky Bundesliga 10 DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14558.ts
+#EXTINF:-1 tvg-id="SkyBundesliga10.de" tvg-name="Sky Bundesliga 10 FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysportbundesliga10hd.png" group-title="LIVE: Germany",Sky Bundesliga 10 FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/7347.ts
+#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="Sky Bundesliga 2 DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysportbundesliga2.png" group-title="LIVE: Germany",Sky Bundesliga 2 DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14551.ts
+#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="Sky Bundesliga 2 FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysportbundesliga2hd.png" group-title="LIVE: Germany",Sky Bundesliga 2 FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/7339.ts
+#EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-name="Sky Bundesliga 3 DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysportbundesliga3.png" group-title="LIVE: Germany",Sky Bundesliga 3 DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14552.ts
+#EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-name="Sky Bundesliga 3 FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysportbundesliga3hd.png" group-title="LIVE: Germany",Sky Bundesliga 3 FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/7340.ts
+#EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-name="Sky Bundesliga 4 DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysportbundesliga4.png" group-title="LIVE: Germany",Sky Bundesliga 4 DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14553.ts
+#EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-name="Sky Bundesliga 4 FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysportbundesliga4hd.png" group-title="LIVE: Germany",Sky Bundesliga 4 FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/7341.ts
+#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="Sky Bundesliga 5 DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysportbundesliga5.png" group-title="LIVE: Germany",Sky Bundesliga 5 DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14554.ts
+#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="Sky Bundesliga 5 FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysportbundesliga5hd.png" group-title="LIVE: Germany",Sky Bundesliga 5 FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/7342.ts
+#EXTINF:-1 tvg-id="SkyBundesliga6.de" tvg-name="Sky Bundesliga 6 DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysportbundesliga6.png" group-title="LIVE: Germany",Sky Bundesliga 6 DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14555.ts
+#EXTINF:-1 tvg-id="SkyBundesliga6.de" tvg-name="Sky Bundesliga 6 FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysportbundesliga6hd.png" group-title="LIVE: Germany",Sky Bundesliga 6 FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/7343.ts
+#EXTINF:-1 tvg-id="SkyBundesliga7.de" tvg-name="Sky Bundesliga 7 DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysportbundesliga7hd.png" group-title="LIVE: Germany",Sky Bundesliga 7 DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/24735.ts
+#EXTINF:-1 tvg-id="SkyBundesliga7.de" tvg-name="Sky Bundesliga 7 FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysportbundesliga7hd.png" group-title="LIVE: Germany",Sky Bundesliga 7 FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/7344.ts
+#EXTINF:-1 tvg-id="SkyBundesliga8.de" tvg-name="Sky Bundesliga 8 DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysportbundesliga8.png" group-title="LIVE: Germany",Sky Bundesliga 8 DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14556.ts
+#EXTINF:-1 tvg-id="SkyBundesliga8.de" tvg-name="Sky Bundesliga 8 FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysportbundesliga8hd.png" group-title="LIVE: Germany",Sky Bundesliga 8 FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/7345.ts
+#EXTINF:-1 tvg-id="SkyBundesliga9.de" tvg-name="Sky Bundesliga 9 DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysportbundesliga9.png" group-title="LIVE: Germany",Sky Bundesliga 9 DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14557.ts
+#EXTINF:-1 tvg-id="SkyBundesliga9.de" tvg-name="Sky Bundesliga 9 FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysportbundesliga9hd.png" group-title="LIVE: Germany",Sky Bundesliga 9 FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/7346.ts
+#EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="Sky Sport News DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysportnews.png" group-title="LIVE: Germany",Sky Sport News DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14577.ts
+#EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="Sky Sport News HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skysportnewshd.png" group-title="LIVE: Germany",Sky Sport News HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/7337.ts
+#EXTINF:-1 tvg-id="SpiegelTVWissen.de" tvg-name="Spiegel TV Wissen DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/spiegeltvwissen.png" group-title="LIVE: Germany",Spiegel TV Wissen DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14045.ts
+#EXTINF:-1 tvg-id="Sport1.de" tvg-name="SPORT1 DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/sport1-duslelaslu.png" group-title="LIVE: Germany",SPORT1 DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/9552.ts
+#EXTINF:-1 tvg-id="Sport1.de" tvg-name="SPORT1 FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/sport1hd-duslelaslu.png" group-title="LIVE: Germany",SPORT1 FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15745.ts
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="sportdigital DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/sportdigital.png" group-title="LIVE: Germany",sportdigital DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/3841.ts
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="sportdigital FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/sportdigitalhd.png" group-title="LIVE: Germany",sportdigital FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/16582.ts
+#EXTINF:-1 tvg-id="SR.de" tvg-name="SR Fernsehen FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/srfernsehenhd.png" group-title="LIVE: Germany",SR Fernsehen FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15749.ts
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/superrtl.png" group-title="LIVE: Germany",Super RTL DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/3456.ts
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/superrtlhd.png" group-title="LIVE: Germany",Super RTL FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14044.ts
+#EXTINF:-1 tvg-id="SWRFernsehenBW.de" tvg-name="SWR BW FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/swrhd.png" group-title="LIVE: Germany",SWR BW FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/16486.ts
+#EXTINF:-1 tvg-id="SWRSR.de" tvg-name="SWR DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/swr.png" group-title="LIVE: Germany",SWR DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/12296.ts
+#EXTINF:-1 tvg-id="Syfy.de" tvg-name="Syfy HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/syfyhd.png" group-title="LIVE: Germany",Syfy HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14043.ts
+#EXTINF:-1 tvg-id="Tagesschau24.de" tvg-name="tagesschau24 FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tagesschau24hd.png" group-title="LIVE: Germany",tagesschau24 FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15752.ts
+#EXTINF:-1 tvg-id="Tele5.de" tvg-name="Tele 5 DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tele5.png" group-title="LIVE: Germany",Tele 5 DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/12325.ts
+#EXTINF:-1 tvg-id="Tele5.de" tvg-name="Tele 5 FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Germany",Tele 5 FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/20208.ts
+#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tlc.png" group-title="LIVE: Germany",TLC DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/12324.ts
+#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tlchd.png" group-title="LIVE: Germany",TLC FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15757.ts
+#EXTINF:-1 tvg-id="TNTComedy.de" tvg-name="TNT Comedy HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tntcomedyhd.png" group-title="LIVE: Germany",TNT Comedy HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15577.ts
+#EXTINF:-1 tvg-id="TNTSerie.de" tvg-name="TNT Serie FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tntseriehd.png" group-title="LIVE: Germany",TNT Serie FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14303.ts
+#EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="TOGGO plus DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/toggoplus.png" group-title="LIVE: Germany",TOGGO plus DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/12323.ts
+#EXTINF:-1 tvg-id="Universal.de" tvg-name="Universal Channel HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/universalchannelhd.png" group-title="LIVE: Germany",Universal Channel HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/3439.ts
+#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/comedycentral.png" group-title="LIVE: Germany",Comedy Central DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/12317.ts
+#EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/voxhd.png" group-title="LIVE: Germany",VOX FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/14291.ts
+#EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/voxhd.png" group-title="LIVE: Germany",VOX DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/1630.ts
+#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/wdrhd.png" group-title="LIVE: Germany",WDR DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/3442.ts
+#EXTINF:-1 tvg-id="WeltDerWunder.de" tvg-name="Welt der Wunder DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/weltderwunder.png" group-title="LIVE: Germany",Welt der Wunder DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/12305.ts
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/zdf.png" group-title="LIVE: Germany",ZDF DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/1629.ts
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/zdfhd.png" group-title="LIVE: Germany",ZDF HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/19098.ts
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/zdfhd.png" group-title="LIVE: Germany",ZDF FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/16484.ts
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/zdfinfo.png" group-title="LIVE: Germany",ZDFinfo DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/12295.ts
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/zdfneo.png" group-title="LIVE: Germany",ZDFneo DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/3453.ts
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/zdfneohd.png" group-title="LIVE: Germany",ZDFneo FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/16482.ts
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/zdfinfohd.png" group-title="LIVE: Germany",ZDFinfo FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/16483.ts
+#EXTINF:-1 tvg-id="ZeeOne.de" tvg-name="Zee One DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/zeeone.png" group-title="LIVE: Germany",Zee One DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/13112.ts
+#EXTINF:-1 tvg-id="ZeeOne.de" tvg-name="Zee One FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/zeeonehd.png" group-title="LIVE: Germany",Zee One FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15748.ts
+#EXTINF:-1 tvg-id="MunchenTV.de" tvg-name="München TV DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/munchentv.png" group-title="LIVE: Germany",München TV DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11659.ts
+#EXTINF:-1 tvg-id="" tvg-name="FC Bayern FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/fcbde.png" group-title="LIVE: Germany",FC Bayern FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/16767.ts
+#EXTINF:-1 tvg-id="SkyHits.de" tvg-name="Sky Hits DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skycinemahits.png" group-title="LIVE: Germany",Sky Hits DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/16803.ts
+#EXTINF:-1 tvg-id="SpiegelGeschichte.de" tvg-name="Spiegel Geschichte HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/spiegeltvwissenhd.png" group-title="LIVE: Germany",Spiegel Geschichte HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/16573.ts
+#EXTINF:-1 tvg-id="Sat1Emotions.de" tvg-name="Sat. 1 Emotions DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/sat1emotions.png" group-title="LIVE: Germany",Sat. 1 Emotions DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/16836.ts
+#EXTINF:-1 tvg-id="ProSiebenFun.de" tvg-name="ProSieben Fun HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/prosiebenfunhd.png" group-title="LIVE: Germany",ProSieben Fun HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/16627.ts
+#EXTINF:-1 tvg-id="TNTFilm.de" tvg-name="TNT Film FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tntfilmhd.png" group-title="LIVE: Germany",TNT Film FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/16628.ts
+#EXTINF:-1 tvg-id="Sport1Plus.de" tvg-name="Sport 1+ FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/sport1plushd.png" group-title="LIVE: Germany",Sport 1+ FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/17166.ts
+#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="Kabel Eins Doku DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/kabeleinsdoku.png" group-title="LIVE: Germany",Kabel Eins Doku DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/17167.ts
+#EXTINF:-1 tvg-id="DeutscheWelleEn.de" tvg-name="DW English DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Germany",DW English DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/17300.ts
+#EXTINF:-1 tvg-id="BabyTV.de" tvg-name="Baby TV DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/babytv.png" group-title="LIVE: Germany",Baby TV DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/19622.ts
+#EXTINF:-1 tvg-id="DeutscheWelleArabic.de" tvg-name="DW Arabia DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Germany",DW Arabia DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/19620.ts
+#EXTINF:-1 tvg-id="Viva.de" tvg-name="Comedy Central HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/comedycentral_viva.png" group-title="LIVE: Germany",Comedy Central HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/19677.ts
+#EXTINF:-1 tvg-id="AutoMotorundSportChannel.de" tvg-name="Auto Motor und Sport HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/automotorsporthd.png" group-title="LIVE: Germany",Auto Motor und Sport HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/19658.ts
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.de" tvg-name="Sony TV HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/sonychannel.png" group-title="LIVE: Germany",Sony TV HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/3447.ts
+#EXTINF:-1 tvg-id="KabelEinsClassic.de" tvg-name="Kabel Eins Classics DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/kabeleinsclassics.png" group-title="LIVE: Germany",Kabel Eins Classics DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/16581.ts
+#EXTINF:-1 tvg-id="One.de" tvg-name="One TV FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Germany",One TV FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/23043.ts
+#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR HD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Germany",WDR HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/23437.ts
+#EXTINF:-1 tvg-id="" tvg-name="German Tote TV DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Germany",German Tote TV DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/23945.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Abenteuer HD DE" tvg-logo="" group-title="LIVE: Germany",Eagle Cinema Abenteuer HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/26323.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Aktion HD DE" tvg-logo="" group-title="LIVE: Germany",Eagle Cinema Aktion HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/26324.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Horror HD DE" tvg-logo="" group-title="LIVE: Germany",Eagle Cinema Horror HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/26328.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Romantisch HD DE" tvg-logo="" group-title="LIVE: Germany",Eagle Cinema Romantisch HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/26332.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Lächeln HD DE" tvg-logo="" group-title="LIVE: Germany",Eagle Cinema Lächeln HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/26330.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Geschichte HD DE" tvg-logo="" group-title="LIVE: Germany",Eagle Cinema Geschichte HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/26327.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Premiere HD DE" tvg-logo="" group-title="LIVE: Germany",Eagle Cinema Premiere HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/26331.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Drama HD DE" tvg-logo="" group-title="LIVE: Germany",Eagle Cinema Drama HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/26326.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Thriller HD DE" tvg-logo="" group-title="LIVE: Germany",Eagle Cinema Thriller HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/26334.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Sci-Fi HD DE" tvg-logo="" group-title="LIVE: Germany",Eagle Cinema Sci-Fi HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/26333.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Animation HD DE" tvg-logo="" group-title="LIVE: Germany",Eagle Cinema Animation HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/26325.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Komodie HD DE" tvg-logo="" group-title="LIVE: Germany",Eagle Cinema Komodie HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/26329.ts
+#EXTINF:-1 tvg-id="NickJr.de" tvg-name="Nick Jr. DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nickjr.png" group-title="LIVE: Germany",Nick Jr. DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/19165.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Animation DE" tvg-logo="" group-title="LIVE: Germany",Sky Cinema Animation DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/26817.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTL UHD 4K DE" tvg-logo="" group-title="LIVE: Germany",RTL UHD 4K DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/27220.ts
+#EXTINF:-1 tvg-id="" tvg-name="Servus TV HD DE" tvg-logo="" group-title="LIVE: Germany",Servus TV HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/27566.ts
+#EXTINF:-1 tvg-id="" tvg-name="Oberpfalz TV DE" tvg-logo="" group-title="LIVE: Germany",Oberpfalz TV DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/27632.ts
+#EXTINF:-1 tvg-id="" tvg-name="Genius Family DE" tvg-logo="" group-title="LIVE: Germany",Genius Family DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/27655.ts
+#EXTINF:-1 tvg-id="" tvg-name="EO TV DE" tvg-logo="" group-title="LIVE: Germany",EO TV DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/27657.ts
+#EXTINF:-1 tvg-id="" tvg-name="HGTV DE" tvg-logo="" group-title="LIVE: Germany",HGTV DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/27656.ts
+#EXTINF:-1 tvg-id="" tvg-name="DW Deutsch DE" tvg-logo="" group-title="LIVE: Germany",DW Deutsch DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/27791.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Germany",DAZN 1 FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/23280.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 FHD DE" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Germany",DAZN 2 FHD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/23281.ts
+#EXTINF:-1 tvg-id="" tvg-name="Health TV DE" tvg-logo="" group-title="LIVE: Germany",Health TV DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/28231.ts
+#EXTINF:-1 tvg-id="" tvg-name="Allgäu TV DE" tvg-logo="" group-title="LIVE: Germany",Allgäu TV DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/28232.ts
+#EXTINF:-1 tvg-id="" tvg-name="Baden TV DE" tvg-logo="" group-title="LIVE: Germany",Baden TV DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/28233.ts
+#EXTINF:-1 tvg-id="" tvg-name="Niederbayern TV DE" tvg-logo="" group-title="LIVE: Germany",Niederbayern TV DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/28234.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kabel Journal DE" tvg-logo="" group-title="LIVE: Germany",Kabel Journal DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/28236.ts
+#EXTINF:-1 tvg-id="" tvg-name="L TV DE" tvg-logo="" group-title="LIVE: Germany",L TV DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/28237.ts
+#EXTINF:-1 tvg-id="" tvg-name="noa4 Hamburg HD DE" tvg-logo="" group-title="LIVE: Germany",noa4 Hamburg HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/28238.ts
+#EXTINF:-1 tvg-id="" tvg-name="noa4 Norderstedt HD DE" tvg-logo="" group-title="LIVE: Germany",noa4 Norderstedt HD DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/28239.ts
+#EXTINF:-1 tvg-id="" tvg-name="OK Koblenz DE" tvg-logo="" group-title="LIVE: Germany",OK Koblenz DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/28240.ts
+#EXTINF:-1 tvg-id="" tvg-name="OK Trier DE" tvg-logo="" group-title="LIVE: Germany",OK Trier DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/28241.ts
+#EXTINF:-1 tvg-id="" tvg-name="Regio TV Schwaben DE" tvg-logo="" group-title="LIVE: Germany",Regio TV Schwaben DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/28242.ts
+#EXTINF:-1 tvg-id="" tvg-name="RFO DE" tvg-logo="" group-title="LIVE: Germany",RFO DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/28243.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rhein Neckar Fernsehen DE" tvg-logo="" group-title="LIVE: Germany",Rhein Neckar Fernsehen DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/28244.ts
+#EXTINF:-1 tvg-id="" tvg-name="RheinMain TV DE" tvg-logo="" group-title="LIVE: Germany",RheinMain TV DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/28245.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRP 1 DE" tvg-logo="" group-title="LIVE: Germany",TRP 1 DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/28246.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Mainfranken DE" tvg-logo="" group-title="LIVE: Germany",TV Mainfranken DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/28247.ts
+#EXTINF:-1 tvg-id="" tvg-name="tv.berlin DE" tvg-logo="" group-title="LIVE: Germany",tv.berlin DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/28248.ts
+#EXTINF:-1 tvg-id="" tvg-name="Westerwald TV DE" tvg-logo="" group-title="LIVE: Germany",Westerwald TV DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/28249.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sylt1 DE" tvg-logo="" group-title="LIVE: Germany",Sylt1 DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/28250.ts
+#EXTINF:-1 tvg-id="" tvg-name="Das Erste HD (B) DE" tvg-logo="" group-title="LIVE: Germany",Das Erste HD (B) DE
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/28251.ts
+#EXTINF:-1 tvg-id="" tvg-name="▬ Poland [PL] ▬" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/poland.png" group-title="LIVE: Poland",▬ Poland [PL] ▬
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/16520.ts
+#EXTINF:-1 tvg-id="13Ulica.pl" tvg-name="13 Ulica HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/13ulicahd.png" group-title="LIVE: Poland",13 Ulica HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15100.ts
+#EXTINF:-1 tvg-id="Adventure.pl" tvg-name="Adventure HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/adventurehd.png" group-title="LIVE: Poland",Adventure HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15205.ts
+#EXTINF:-1 tvg-id="AMC.pl" tvg-name="AMC Polska PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/amc.png" group-title="LIVE: Poland",AMC Polska PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15218.ts
+#EXTINF:-1 tvg-id="AXNBlack.pl" tvg-name="AXN Black PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/axnblack.png" group-title="LIVE: Poland",AXN Black PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11512.ts
+#EXTINF:-1 tvg-id="AXN.pl" tvg-name="AXN Polska HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/axnhd.png" group-title="LIVE: Poland",AXN Polska HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11699.ts
+#EXTINF:-1 tvg-id="AXN.pl" tvg-name="AXN Polska PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/axn.png" group-title="LIVE: Poland",AXN Polska PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11511.ts
+#EXTINF:-1 tvg-id="AXNSpin.pl" tvg-name="AXN Spin HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/axnspinhd.png" group-title="LIVE: Poland",AXN Spin HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11629.ts
+#EXTINF:-1 tvg-id="AXNWhite.pl" tvg-name="AXN White PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/axnwhite.png" group-title="LIVE: Poland",AXN White PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11513.ts
+#EXTINF:-1 tvg-id="DiscoveryTurboXtra.pl" tvg-name="Discovery Turbo Xtra PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/discoveryturboxtra.png" group-title="LIVE: Poland",Discovery Turbo Xtra PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11196.ts
+#EXTINF:-1 tvg-id="AleKino.pl" tvg-name="Ale kino+ HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/alekinoplushd.png" group-title="LIVE: Poland",Ale kino+ HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15219.ts
+#EXTINF:-1 tvg-id="AnimalPlanet.pl" tvg-name="Animal Planet HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/animalplanethd.png" group-title="LIVE: Poland",Animal Planet HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/13540.ts
+#EXTINF:-1 tvg-id="BBCEarth.pl" tvg-name="BBC Earth HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/bbcearth.png" group-title="LIVE: Poland",BBC Earth HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/13538.ts
+#EXTINF:-1 tvg-id="BBC.pl" tvg-name="BBC First FHD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/bbchd.png" group-title="LIVE: Poland",BBC First FHD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/13537.ts
+#EXTINF:-1 tvg-id="Boomerang.pl" tvg-name="Boomerang HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/boomerang.png" group-title="LIVE: Poland",Boomerang HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11522.ts
+#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="Canal + 1 HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/canalplus1hd.png" group-title="LIVE: Poland",Canal + 1 HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15204.ts
+#EXTINF:-1 tvg-id="CanalPlusDiscovery.pl" tvg-name="Canal + Dokument FHD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/canalplusdiscoveryhd.png" group-title="LIVE: Poland",Canal + Dokument FHD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15217.ts
+#EXTINF:-1 tvg-id="CanalPlusFamily.pl" tvg-name="Canal + Family HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/canalplusfamily.png" group-title="LIVE: Poland",Canal + Family HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15216.ts
+#EXTINF:-1 tvg-id="CanalPlusFilm.pl" tvg-name="Canal + Film HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/canalplusfilmhd.png" group-title="LIVE: Poland",Canal + Film HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15215.ts
+#EXTINF:-1 tvg-id="MotowizjaTV.pl" tvg-name="Motowizja FHD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/motowizjatv.png" group-title="LIVE: Poland",Motowizja FHD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/19153.ts
+#EXTINF:-1 tvg-id="CanalPlusSeriale.pl" tvg-name="Canal + Seriale HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/canalplusserialehd.png" group-title="LIVE: Poland",Canal + Seriale HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15214.ts
+#EXTINF:-1 tvg-id="WPTelewizja.pl" tvg-name="WP Telewizja PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/cbsdrama.png" group-title="LIVE: Poland",WP Telewizja PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11517.ts
+#EXTINF:-1 tvg-id="CBSEuropa.pl" tvg-name="CBS Europa HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/cbseuropa.png" group-title="LIVE: Poland",CBS Europa HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15202.ts
+#EXTINF:-1 tvg-id="CBSReality.pl" tvg-name="CBS Reality PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/cbsreality.png" group-title="LIVE: Poland",CBS Reality PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11518.ts
+#EXTINF:-1 tvg-id="ComedyCentralFamily.pl" tvg-name="Comedy Central Family Polska PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/comedycentralfamilypl.png" group-title="LIVE: Poland",Comedy Central Family Polska PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11704.ts
+#EXTINF:-1 tvg-id="CanalPlus.pl" tvg-name="Canal + HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/canalplushd.png" group-title="LIVE: Poland",Canal + HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/13530.ts
+#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-name="Canal + Sport HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/canalplussport.png" group-title="LIVE: Poland",Canal + Sport HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/13535.ts
+#EXTINF:-1 tvg-id="CanalPlusSport2.pl" tvg-name="CANAL + Sport 2 HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/canalplussport2hd.png" group-title="LIVE: Poland",CANAL + Sport 2 HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15709.ts
+#EXTINF:-1 tvg-id="CartoonNetwork.pl" tvg-name="Cartoon Network HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/cartoonnethd.png" group-title="LIVE: Poland",Cartoon Network HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15203.ts
+#EXTINF:-1 tvg-id="Cinemax.pl" tvg-name="Cinemax HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/cinemaxhd.png" group-title="LIVE: Poland",Cinemax HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15710.ts
+#EXTINF:-1 tvg-id="Cinemax2.pl" tvg-name="Cinemax 2 HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/cinemax2hd.png" group-title="LIVE: Poland",Cinemax 2 HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15099.ts
+#EXTINF:-1 tvg-id="ComedyCentral.pl" tvg-name="Comedy Central Polska PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/comedycentral.png" group-title="LIVE: Poland",Comedy Central Polska PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11707.ts
+#EXTINF:-1 tvg-id="" tvg-name="Crime & Investigation PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Crime & Investigation PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/24146.ts
+#EXTINF:-1 tvg-id="" tvg-name="Domo+ HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/domoplushd.png" group-title="LIVE: Poland",Domo+ HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15199.ts
+#EXTINF:-1 tvg-id="Discovery.pl" tvg-name="Discovery Channel HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/discoverychannelhd.png" group-title="LIVE: Poland",Discovery Channel HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15213.ts
+#EXTINF:-1 tvg-id="DiscoveryHistoria.pl" tvg-name="Discovery Historia PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/discoveryhistoria.png" group-title="LIVE: Poland",Discovery Historia PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15098.ts
+#EXTINF:-1 tvg-id="DiscoveryLife.pl" tvg-name="Discovery Life FHD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/discoverylife.png" group-title="LIVE: Poland",Discovery Life FHD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11520.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.pl" tvg-name="Discovery Science HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/discoverysciencehd.png" group-title="LIVE: Poland",Discovery Science HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15201.ts
+#EXTINF:-1 tvg-id="DiscoveryTurboXtra.pl" tvg-name="Discovery Turbo Xtra HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/discoveryturboxtrahd.png" group-title="LIVE: Poland",Discovery Turbo Xtra HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15212.ts
+#EXTINF:-1 tvg-id="Metro.pl" tvg-name="Metro PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/metrotv.png" group-title="LIVE: Poland",Metro PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11195.ts
+#EXTINF:-1 tvg-id="DisneyChannel.pl" tvg-name="Disney Channel HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/disneychannelhd.png" group-title="LIVE: Poland",Disney Channel HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11523.ts
+#EXTINF:-1 tvg-id="DisneyJunior.pl" tvg-name="Disney Junior PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/disneyjunior.png" group-title="LIVE: Poland",Disney Junior PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15200.ts
+#EXTINF:-1 tvg-id="DisneyXD.pl" tvg-name="Disney XD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/disneyxd.png" group-title="LIVE: Poland",Disney XD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11524.ts
+#EXTINF:-1 tvg-id="ElevenSport1.pl" tvg-name="Eleven Sports 1 HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/eleven.png" group-title="LIVE: Poland",Eleven Sports 1 HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15198.ts
+#EXTINF:-1 tvg-id="ElevenSport2.pl" tvg-name="Eleven Sports 2 FHD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/elevensports.png" group-title="LIVE: Poland",Eleven Sports 2 FHD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15197.ts
+#EXTINF:-1 tvg-id="ElevenSport3.pl" tvg-name="Eleven Sports 3 FHD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/elevenextrahd.png" group-title="LIVE: Poland",Eleven Sports 3 FHD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15097.ts
+#EXTINF:-1 tvg-id="ElevenSport4.pl" tvg-name="Eleven Sports 4 HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Eleven Sports 4 HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/19149.ts
+#EXTINF:-1 tvg-id="" tvg-name="Epic Drama PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Epic Drama PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/19081.ts
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment FHD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/eentertainmenthd.png" group-title="LIVE: Poland",E! Entertainment FHD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/22302.ts
+#EXTINF:-1 tvg-id="Eurosport.pl" tvg-name="Eurosport 1 HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/eurosport1hd.png" group-title="LIVE: Poland",Eurosport 1 HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15096.ts
+#EXTINF:-1 tvg-id="Eurosport2.pl" tvg-name="Eurosport 2 HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/eurosport2hd.png" group-title="LIVE: Poland",Eurosport 2 HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15195.ts
+#EXTINF:-1 tvg-id="" tvg-name="Extreme Sports HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/extremesportshd.png" group-title="LIVE: Poland",Extreme Sports HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15194.ts
+#EXTINF:-1 tvg-id="Filmbox.pl" tvg-name="FightBox HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/fightboxhd.png" group-title="LIVE: Poland",FightBox HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15095.ts
+#EXTINF:-1 tvg-id="FightKlub.pl" tvg-name="Fight Klub HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/fightklubhdpl.png" group-title="LIVE: Poland",Fight Klub HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15193.ts
+#EXTINF:-1 tvg-id="FilmBoxAction.pl" tvg-name="FilmBox Action PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/filmboxaction.png" group-title="LIVE: Poland",FilmBox Action PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11508.ts
+#EXTINF:-1 tvg-id="FilmboxFamily.pl" tvg-name="FilmBox Family PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/filmboxfamily.png" group-title="LIVE: Poland",FilmBox Family PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11509.ts
+#EXTINF:-1 tvg-id="KinoPolska.pl" tvg-name="Kino TV PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/filmbox.png" group-title="LIVE: Poland",Kino TV PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11507.ts
+#EXTINF:-1 tvg-id="FilmboxPremium.pl" tvg-name="FilmBox Premium HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/filmboxpremium.png" group-title="LIVE: Poland",FilmBox Premium HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11510.ts
+#EXTINF:-1 tvg-id="FokusTV.pl" tvg-name="Fokus TV PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/fokustv.png" group-title="LIVE: Poland",Fokus TV PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/12821.ts
+#EXTINF:-1 tvg-id="FoxComedy.pl" tvg-name="FOX Comedy Polska HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/foxcomedyhd.png" group-title="LIVE: Poland",FOX Comedy Polska HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11698.ts
+#EXTINF:-1 tvg-id="FoxComedy.pl" tvg-name="FOX Comedy Polska PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/foxcomedy.png" group-title="LIVE: Poland",FOX Comedy Polska PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11634.ts
+#EXTINF:-1 tvg-id="FOX.pl" tvg-name="FOX Polska HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/foxhd.png" group-title="LIVE: Poland",FOX Polska HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11697.ts
+#EXTINF:-1 tvg-id="H2.pl" tvg-name="H2 Polska HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/h2hd.png" group-title="LIVE: Poland",H2 Polska HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15093.ts
+#EXTINF:-1 tvg-id="HBO.pl" tvg-name="HBO HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/hbo1hd.png" group-title="LIVE: Poland",HBO HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/13526.ts
+#EXTINF:-1 tvg-id="HBO2.pl" tvg-name="HBO 2 HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/hbo2hd.png" group-title="LIVE: Poland",HBO 2 HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/13527.ts
+#EXTINF:-1 tvg-id="HBO3.pl" tvg-name="HBO 3 HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/hbo3hd.png" group-title="LIVE: Poland",HBO 3 HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15092.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eska Rock TV PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/hiphoptvpl.png" group-title="LIVE: Poland",Eska Rock TV PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/12818.ts
+#EXTINF:-1 tvg-id="History.pl" tvg-name="History HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/historyhd.png" group-title="LIVE: Poland",History HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15091.ts
+#EXTINF:-1 tvg-id="InvestigationDiscovery.pl" tvg-name="Investigation Discovery HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/investigationdiscoveryhd.png" group-title="LIVE: Poland",Investigation Discovery HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15211.ts
+#EXTINF:-1 tvg-id="KinoPolskaMuzyka.pl" tvg-name="Kino Polska Muzyka PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/kinopolskamuzyka.png" group-title="LIVE: Poland",Kino Polska Muzyka PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15090.ts
+#EXTINF:-1 tvg-id="KinoPolska.pl" tvg-name="Kino Polska PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/kinopolska.png" group-title="LIVE: Poland",Kino Polska PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11192.ts
+#EXTINF:-1 tvg-id="KuchniaPlus.pl" tvg-name="Kuchnia + FHD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/kuchniaplushd.png" group-title="LIVE: Poland",Kuchnia + FHD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15210.ts
+#EXTINF:-1 tvg-id="Lifetime.pl" tvg-name="Lifetime HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/lifetimehd.png" group-title="LIVE: Poland",Lifetime HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15089.ts
+#EXTINF:-1 tvg-id="MTVLive.pl" tvg-name="MTV Rocks PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/mtvlivehd.png" group-title="LIVE: Poland",MTV Rocks PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11703.ts
+#EXTINF:-1 tvg-id="MTVPolska.pl" tvg-name="MTV Polska FHD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/mtvpolska.png" group-title="LIVE: Poland",MTV Polska FHD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11702.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/mtvlivehd.png" group-title="LIVE: Poland",MTV Live HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/20424.ts
+#EXTINF:-1 tvg-id="Minimini.pl" tvg-name="MiniMini + HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/miniminiplushd.png" group-title="LIVE: Poland",MiniMini + HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15088.ts
+#EXTINF:-1 tvg-id="" tvg-name="NTL PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/ntl.png" group-title="LIVE: Poland",NTL PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15190.ts
+#EXTINF:-1 tvg-id="NatGeo.pl" tvg-name="National Geographic HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nationalgeographichd.png" group-title="LIVE: Poland",National Geographic HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15087.ts
+#EXTINF:-1 tvg-id="NatGeo.pl" tvg-name="National Geographic Polska PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/natgeo.png" group-title="LIVE: Poland",National Geographic Polska PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11515.ts
+#EXTINF:-1 tvg-id="NatGeoPeople.pl" tvg-name="National Geographic People HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/natgeopeoplehd.png" group-title="LIVE: Poland",National Geographic People HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15191.ts
+#EXTINF:-1 tvg-id="NatGeoWild.pl" tvg-name="National Geographic Wild HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/natgeowildhd.png" group-title="LIVE: Poland",National Geographic Wild HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15711.ts
+#EXTINF:-1 tvg-id="NatGeoWild.pl" tvg-name="National Geographic Wild PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/natgeowild.png" group-title="LIVE: Poland",National Geographic Wild PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11516.ts
+#EXTINF:-1 tvg-id="NickJr.pl" tvg-name="Nick Jr PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nickjr.png" group-title="LIVE: Poland",Nick Jr PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11706.ts
+#EXTINF:-1 tvg-id="Nickelodeon.pl" tvg-name="Nickelodeon PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nickelodeon.png" group-title="LIVE: Poland",Nickelodeon PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11705.ts
+#EXTINF:-1 tvg-id="PowerTV.pl" tvg-name="Power TV PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/powertv.png" group-title="LIVE: Poland",Power TV PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15187.ts
+#EXTINF:-1 tvg-id="HGTV.pl" tvg-name="HGTV HD  PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/hgtv.png" group-title="LIVE: Poland",HGTV HD  PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11188.ts
+#EXTINF:-1 tvg-id="" tvg-name="Planete + Polska HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/planeteplushd.png" group-title="LIVE: Poland",Planete + Polska HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15208.ts
+#EXTINF:-1 tvg-id="PoloTV.pl" tvg-name="Polo TV PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/polotv.png" group-title="LIVE: Poland",Polo TV PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/13517.ts
+#EXTINF:-1 tvg-id="Polonia1.pl" tvg-name="Polonia 1 PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/polonia1.png" group-title="LIVE: Poland",Polonia 1 PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11711.ts
+#EXTINF:-1 tvg-id="Polsat2.pl" tvg-name="Polsat 2 HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/polsat2hd.png" group-title="LIVE: Poland",Polsat 2 HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/12817.ts
+#EXTINF:-1 tvg-id="Polsat2.pl" tvg-name="Polsat 2 PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/polsat2.png" group-title="LIVE: Poland",Polsat 2 PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11185.ts
+#EXTINF:-1 tvg-id="PolsatCafe.pl" tvg-name="Polsat Café HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/polsatcafehd.png" group-title="LIVE: Poland",Polsat Café HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11198.ts
+#EXTINF:-1 tvg-id="PolsatFilm.pl" tvg-name="Polsat Film HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/polsatfilmhd.png" group-title="LIVE: Poland",Polsat Film HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15086.ts
+#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="Polsat HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/polsathd.png" group-title="LIVE: Poland",Polsat HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11696.ts
+#EXTINF:-1 tvg-id="JimJam.pl" tvg-name="JimJam Polsat PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/jimjampolsat.png" group-title="LIVE: Poland",JimJam Polsat PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11710.ts
+#EXTINF:-1 tvg-id="PolsatNews2.pl" tvg-name="Polsat News 2 PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/polsatnews2.png" group-title="LIVE: Poland",Polsat News 2 PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11181.ts
+#EXTINF:-1 tvg-id="PolsatNews.pl" tvg-name="Polsat News HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/polsatnewshd.png" group-title="LIVE: Poland",Polsat News HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15085.ts
+#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="Polsat PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/polsat.png" group-title="LIVE: Poland",Polsat PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11186.ts
+#EXTINF:-1 tvg-id="PolsatDoku.pl" tvg-name="Polsat Doku HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Polsat Doku HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/20123.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Music HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Polsat Music HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/21527.ts
+#EXTINF:-1 tvg-id="PolsatPlay.pl" tvg-name="Polsat Play HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/polsatplayhd.png" group-title="LIVE: Poland",Polsat Play HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11177.ts
+#EXTINF:-1 tvg-id="PolsatPlay.pl" tvg-name="Polsat Play PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/polsatplay.png" group-title="LIVE: Poland",Polsat Play PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11180.ts
+#EXTINF:-1 tvg-id="PolsatRomans.pl" tvg-name="Polsat Romans PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/polsatromans.png" group-title="LIVE: Poland",Polsat Romans PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11709.ts
+#EXTINF:-1 tvg-id="PolsatSportExtra.pl" tvg-name="Polsat Sport Extra HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/polsatsportextrahd.png" group-title="LIVE: Poland",Polsat Sport Extra HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11201.ts
+#EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-name="Polsat Sport Fight HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/polsatsportfighthd.png" group-title="LIVE: Poland",Polsat Sport Fight HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15188.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium 1 FHD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Polsat Sport Premium 1 FHD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/23369.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium 2 FHD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Polsat Sport Premium 2 FHD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/23370.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium 3 PPV FHD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Polsat Sport Premium 3 PPV FHD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/23420.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium 4 PPV FHD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Polsat Sport Premium 4 PPV FHD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/23421.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium 5 PPV FHD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Polsat Sport Premium 5 PPV FHD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/23422.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium 6 PPV FHD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Polsat Sport Premium 6 PPV FHD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/23423.ts
+#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="Polsat Sport PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Polsat Sport PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/17470.ts
+#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="Polsat Sport HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/polsatsporthd.png" group-title="LIVE: Poland",Polsat Sport HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11200.ts
+#EXTINF:-1 tvg-id="SuperPolsat.pl" tvg-name="Super Polsat HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/superpolsatpl.png" group-title="LIVE: Poland",Super Polsat HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11199.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Viasat History HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/polsatviasathistory.png" group-title="LIVE: Poland",Polsat Viasat History HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15084.ts
+#EXTINF:-1 tvg-id="TVPuls2.pl" tvg-name="TV Puls 2 PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/puls2.png" group-title="LIVE: Poland",TV Puls 2 PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15185.ts
+#EXTINF:-1 tvg-id="RomanceTV.pl" tvg-name="Romance TV Polska HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/romancetvhd.png" group-title="LIVE: Poland",Romance TV Polska HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15207.ts
+#EXTINF:-1 tvg-id="ScifiUniversal.pl" tvg-name="Scifi Universal HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Scifi Universal HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/20124.ts
+#EXTINF:-1 tvg-id="StarsTV.pl" tvg-name="Stars TV PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/starstv.png" group-title="LIVE: Poland",Stars TV PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15082.ts
+#EXTINF:-1 tvg-id="Tele5.pl" tvg-name="Tele 5 PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tele5-lichoridas.png" group-title="LIVE: Poland",Tele 5 PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11630.ts
+#EXTINF:-1 tvg-id="TLC.pl" tvg-name="TLC HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tlchd.png" group-title="LIVE: Poland",TLC HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15080.ts
+#EXTINF:-1 tvg-id="TLC.pl" tvg-name="TLC PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tlc.png" group-title="LIVE: Poland",TLC PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11632.ts
+#EXTINF:-1 tvg-id="TNT.pl" tvg-name="TNT HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tnthd.png" group-title="LIVE: Poland",TNT HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15184.ts
+#EXTINF:-1 tvg-id="TOTV.pl" tvg-name="TOTV PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/totvpl.png" group-title="LIVE: Poland",TOTV PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15183.ts
+#EXTINF:-1 tvg-id="TTV.pl" tvg-name="TTV HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/ttv.png" group-title="LIVE: Poland",TTV HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15181.ts
+#EXTINF:-1 tvg-id="TV4.pl" tvg-name="TV 4 HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tv4hd.png" group-title="LIVE: Poland",TV 4 HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11178.ts
+#EXTINF:-1 tvg-id="TV6.pl" tvg-name="TV6 HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tv6.png" group-title="LIVE: Poland",TV6 HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/19082.ts
+#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="TVP Info HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvpinfohdpl.png" group-title="LIVE: Poland",TVP Info HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15078.ts
+#EXTINF:-1 tvg-id="TVN24.pl" tvg-name="TVN 24 HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvn24hd.png" group-title="LIVE: Poland",TVN 24 HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15180.ts
+#EXTINF:-1 tvg-id="TVN7.pl" tvg-name="TVN 7 HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvn7hd.png" group-title="LIVE: Poland",TVN 7 HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15179.ts
+#EXTINF:-1 tvg-id="TVNFabula.pl" tvg-name="TVN Fabuła HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvnfabula.png" group-title="LIVE: Poland",TVN Fabuła HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15178.ts
+#EXTINF:-1 tvg-id="TVN.pl" tvg-name="TVN HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvnhd.png" group-title="LIVE: Poland",TVN HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15177.ts
+#EXTINF:-1 tvg-id="TVNStyle.pl" tvg-name="TVN Style HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvnstylehd.png" group-title="LIVE: Poland",TVN Style HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15176.ts
+#EXTINF:-1 tvg-id="TVNStyle.pl" tvg-name="TVN Style PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvnstyle.png" group-title="LIVE: Poland",TVN Style PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11173.ts
+#EXTINF:-1 tvg-id="TVNTurbo.pl" tvg-name="TVN Turbo HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvnturbohd.png" group-title="LIVE: Poland",TVN Turbo HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15175.ts
+#EXTINF:-1 tvg-id="TVNTurbo.pl" tvg-name="TVN Turbo PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvnturbo.png" group-title="LIVE: Poland",TVN Turbo PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/19085.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVN24Bis HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvn24bis.png" group-title="LIVE: Poland",TVN24Bis HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/19152.ts
+#EXTINF:-1 tvg-id="TVN7.pl" tvg-name="TVN 7 PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvn7.png" group-title="LIVE: Poland",TVN 7 PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/13539.ts
+#EXTINF:-1 tvg-id="TVN24.pl" tvg-name="TVN 24 PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvn24.png" group-title="LIVE: Poland",TVN 24 PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/19086.ts
+#EXTINF:-1 tvg-id="TVN.pl" tvg-name="TVN PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvn.png" group-title="LIVE: Poland",TVN PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/19087.ts
+#EXTINF:-1 tvg-id="TVP1.pl" tvg-name="TVP 1 HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvp1hd.png" group-title="LIVE: Poland",TVP 1 HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/12810.ts
+#EXTINF:-1 tvg-id="TVP2.pl" tvg-name="TVP 2 HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvp2hd.png" group-title="LIVE: Poland",TVP 2 HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/12811.ts
+#EXTINF:-1 tvg-id="TVP3.pl" tvg-name="TVP 3 Warszawa PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvp3.png" group-title="LIVE: Poland",TVP 3 Warszawa PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15077.ts
+#EXTINF:-1 tvg-id="TVPABC.pl" tvg-name="TVP ABC PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvpabc.png" group-title="LIVE: Poland",TVP ABC PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15076.ts
+#EXTINF:-1 tvg-id="TVPHistoria.pl" tvg-name="TVP Historia PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvphistoria.png" group-title="LIVE: Poland",TVP Historia PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15075.ts
+#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="TVP Info PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvpinfo.png" group-title="LIVE: Poland",TVP Info PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15074.ts
+#EXTINF:-1 tvg-id="TVPSeriale.pl" tvg-name="TVP Seriale PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvpseriale.png" group-title="LIVE: Poland",TVP Seriale PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11514.ts
+#EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="TVP Sport HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvpsporthd.png" group-title="LIVE: Poland",TVP Sport HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/12826.ts
+#EXTINF:-1 tvg-id="TVPKultura.pl" tvg-name="TVP Kultura PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",TVP Kultura PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/24147.ts
+#EXTINF:-1 tvg-id="TVS.pl" tvg-name="TVS PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvs.png" group-title="LIVE: Poland",TVS PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/12820.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trace Urban PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/traceurban.png" group-title="LIVE: Poland",Trace Urban PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15079.ts
+#EXTINF:-1 tvg-id="DaVinciLearning.pl" tvg-name="Da Vinci Learning PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/davincilearning.png" group-title="LIVE: Poland",Da Vinci Learning PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15182.ts
+#EXTINF:-1 tvg-id="VH1.pl" tvg-name="VH1 Polska PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/vh1.png" group-title="LIVE: Poland",VH1 Polska PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11701.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOX Music TV PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/voxmusic.png" group-title="LIVE: Poland",VOX Music TV PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15174.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zest TV PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/zesttv.png" group-title="LIVE: Poland",Zest TV PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15072.ts
+#EXTINF:-1 tvg-id="nSport.pl" tvg-name="N Sport + HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nsportplushd.png" group-title="LIVE: Poland",N Sport + HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15209.ts
+#EXTINF:-1 tvg-id="" tvg-name="Teletoon + HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/teletoonplushd-lichoridas.png" group-title="LIVE: Poland",Teletoon + HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/15206.ts
+#EXTINF:-1 tvg-id="4FunFitDance.pl" tvg-name="4 Fun Dance PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/4funfitanddance.png" group-title="LIVE: Poland",4 Fun Dance PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/16291.ts
+#EXTINF:-1 tvg-id="4FunHits.pl" tvg-name="4 Fun Gold Hits PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/4fungoldhits.png" group-title="LIVE: Poland",4 Fun Gold Hits PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/16290.ts
+#EXTINF:-1 tvg-id="4funTV.pl" tvg-name="4 Fun TV PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/4funtv.png" group-title="LIVE: Poland",4 Fun TV PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/16289.ts
+#EXTINF:-1 tvg-id="CBSAction.pl" tvg-name="CBS Action PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/cbsaction.png" group-title="LIVE: Poland",CBS Action PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/16288.ts
+#EXTINF:-1 tvg-id="FilmboxArthouse.pl" tvg-name="FilmBox Arthouse PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/filmboxarthouse.png" group-title="LIVE: Poland",FilmBox Arthouse PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/16287.ts
+#EXTINF:-1 tvg-id="Stopklatka.pl" tvg-name="Stopklatka TV PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/stopklatkatv.png" group-title="LIVE: Poland",Stopklatka TV PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/16284.ts
+#EXTINF:-1 tvg-id="TVRepublika.pl" tvg-name="TV Republika PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvrepublika.png" group-title="LIVE: Poland",TV Republika PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/16283.ts
+#EXTINF:-1 tvg-id="TVPRozrywka.pl" tvg-name="TVP Rozrywka PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvprozrywka.png" group-title="LIVE: Poland",TVP Rozrywka PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/16282.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOD 205 PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/vod150.png" group-title="LIVE: Poland",VOD 205 PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/16279.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOD 206 PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/vod150.png" group-title="LIVE: Poland",VOD 206 PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/16278.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOD 207 PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/vod150.png" group-title="LIVE: Poland",VOD 207 PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/16277.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zoom TV PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/zoomtv.png" group-title="LIVE: Poland",Zoom TV PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/16271.ts
+#EXTINF:-1 tvg-id="SportKlub.pl" tvg-name="Sport Klub Polska HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/sportklub.png" group-title="LIVE: Poland",Sport Klub Polska HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/16835.ts
+#EXTINF:-1 tvg-id="TVPuls.pl" tvg-name="TV Puls HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvplushdpl.png" group-title="LIVE: Poland",TV Puls HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/16606.ts
+#EXTINF:-1 tvg-id="ATMRozrywka.pl" tvg-name="ATM Rozrywka PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/atmrozrywka.png" group-title="LIVE: Poland",ATM Rozrywka PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/17040.ts
+#EXTINF:-1 tvg-id="ViasatExplore.pl" tvg-name="Viasat Explore Polsat FHD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Viasat Explore Polsat FHD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/18387.ts
+#EXTINF:-1 tvg-id="TravelChannel.pl" tvg-name="Travel Channel FHD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Travel Channel FHD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/18389.ts
+#EXTINF:-1 tvg-id="TV6.pl" tvg-name="TV 6 HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",TV 6 HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/18393.ts
+#EXTINF:-1 tvg-id="TVP.pl" tvg-name="TVP HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvphd.png" group-title="LIVE: Poland",TVP HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/18392.ts
+#EXTINF:-1 tvg-id="" tvg-name="WPolsce.pl" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",WPolsce.pl
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/19084.ts
+#EXTINF:-1 tvg-id="ViasatNature.pl" tvg-name="Viasat Nature Polsat PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/viasatnature.png" group-title="LIVE: Poland",Viasat Nature Polsat PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/18388.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nicktoons Polska FHD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Nicktoons Polska FHD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/22772.ts
+#EXTINF:-1 tvg-id="ComedyCentral.pl" tvg-name="Comedy Central Polska FHD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/comedycentralfamilypl.png" group-title="LIVE: Poland",Comedy Central Polska FHD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/22771.ts
+#EXTINF:-1 tvg-id="ComedyCentralFamily.pl" tvg-name="Comedy Central Family Polska FHD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/comedycentralfamilypl.png" group-title="LIVE: Poland",Comedy Central Family Polska FHD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/22770.ts
+#EXTINF:-1 tvg-id="ParamountChannel.pl" tvg-name="Paramount Channel Polska FHD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/paramountchannelhd.png" group-title="LIVE: Poland",Paramount Channel Polska FHD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/22769.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nowa TV PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nowatv.png" group-title="LIVE: Poland",Nowa TV PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/22768.ts
+#EXTINF:-1 tvg-id="" tvg-name="Water Planet PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Water Planet PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/22767.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Okazje PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",TV Okazje PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/22766.ts
+#EXTINF:-1 tvg-id="DiscoPoloMusic.pl" tvg-name="Disco Polo Music PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/discopolomusic.png" group-title="LIVE: Poland",Disco Polo Music PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/22765.ts
+#EXTINF:-1 tvg-id="FoodNetwork.pl" tvg-name="Food Network FHD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/foodnetworkhd.png" group-title="LIVE: Poland",Food Network FHD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/22764.ts
+#EXTINF:-1 tvg-id="ViasatNature.pl" tvg-name="Viasat Nature Polsat FHD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/viasatnaturehd.png" group-title="LIVE: Poland",Viasat Nature Polsat FHD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/22763.ts
+#EXTINF:-1 tvg-id="PolsatSportNews.pl" tvg-name="Polsat Sport News FHD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Polsat Sport News FHD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/22762.ts
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/babytv.png" group-title="LIVE: Poland",Baby TV PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/22303.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eska TV Extra PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/eskatv.png" group-title="LIVE: Poland",Eska TV Extra PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11182.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOD 208 PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",VOD 208 PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/23299.ts
+#EXTINF:-1 tvg-id="BBCBrit.pl" tvg-name="BBC Brit Polska FHD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/bbcbrit.png" group-title="LIVE: Poland",BBC Brit Polska FHD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/23317.ts
+#EXTINF:-1 tvg-id="BBCLifestyle.pl" tvg-name="BBC Lifestyle Polska FHD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",BBC Lifestyle Polska FHD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/23318.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN FHD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/cnn.png" group-title="LIVE: Poland",CNN FHD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/23319.ts
+#EXTINF:-1 tvg-id="BBCCbeebies.pl" tvg-name="BBC CBeebies PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",BBC CBeebies PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/23427.ts
+#EXTINF:-1 tvg-id="EskaTV.pl" tvg-name="Eska TV PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/8tvpl.png" group-title="LIVE: Poland",Eska TV PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/11197.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Games FHD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Polsat Games FHD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/24376.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Rodzina FHD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Polsat Rodzina FHD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/24377.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat KSW PPV PL" tvg-logo="" group-title="LIVE: Live Events",Polsat KSW PPV PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/26834.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Life PL" tvg-logo="" group-title="LIVE: Poland",Discovery Life PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/27037.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel PL" tvg-logo="" group-title="LIVE: Poland",Discovery Channel PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/27048.ts
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery  PL" tvg-logo="" group-title="LIVE: Poland",Investigation Discovery  PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/27128.ts
+#EXTINF:-1 tvg-id="" tvg-name="FilmBox Extra HD PL" tvg-logo="" group-title="LIVE: Poland",FilmBox Extra HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/27555.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVP Polonia PL" tvg-logo="" group-title="LIVE: Poland",TVP Polonia PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/27554.ts
+#EXTINF:-1 tvg-id="" tvg-name="RedCarpet FHD PL" tvg-logo="" group-title="LIVE: Poland",RedCarpet FHD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/27543.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sundance TV HD PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/sundancetv.png" group-title="LIVE: Poland",Sundance TV HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/20422.ts
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel HD PL" tvg-logo="" group-title="LIVE: Poland",Golf Channel HD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/27541.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nuta TV PL" tvg-logo="" group-title="LIVE: Poland",Nuta TV PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/27540.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal + Sport 3 FHD PL" tvg-logo="" group-title="LIVE: Poland",Canal + Sport 3 FHD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/28019.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal + Sport 4 FHD PL" tvg-logo="" group-title="LIVE: Poland",Canal + Sport 4 FHD PL
+http://tv.t0mate.tvip.xyz:80/live/Zuhause0602/Handball1/28020.ts
